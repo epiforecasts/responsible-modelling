@@ -1,0 +1,1 @@
+Sitemap: https://epiforecasts.github.io/responsible-modelling/sitemap.xml
