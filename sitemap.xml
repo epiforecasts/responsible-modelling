@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://epiforecasts.github.io/responsible-modelling/resources.html</loc>
-    <lastmod>2026-01-29T14:52:43.763Z</lastmod>
+    <lastmod>2026-01-29T22:52:40.005Z</lastmod>
   </url>
   <url>
     <loc>https://epiforecasts.github.io/responsible-modelling/index.html</loc>
     <lastmod>2026-01-29T14:51:37.650Z</lastmod>
   </url>
   <url>
+    <loc>https://epiforecasts.github.io/responsible-modelling/register.html</loc>
+    <lastmod>2026-02-04T16:07:49.028Z</lastmod>
+  </url>
+  <url>
     <loc>https://epiforecasts.github.io/responsible-modelling/2026-03-24.html</loc>
-    <lastmod>2026-01-26T20:01:01.005Z</lastmod>
+    <lastmod>2026-02-04T16:07:38.322Z</lastmod>
   </url>
 </urlset>
