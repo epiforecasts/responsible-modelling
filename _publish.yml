@@ -1,0 +1,3 @@
+- source: project
+  github-pages:
+    - url: https://epiforecasts.io/responsible-modelling/
