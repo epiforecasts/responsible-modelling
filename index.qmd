@@ -1,11 +1,32 @@
 ---
-title: "Responsible modelling"
+title: "Exploring responsibility in infectious disease modelling"
 ---
 
-This is a Quarto website.
+:::{.callout-note .column-margin}
+## Key details
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- **Date:** 24 March 2026
+- **Timing:** 09.00 - 16.00
+- **Location:** London School of Hygiene & Tropical Medicine, Keppel St, London WC1E 7HT
+- **Participants:** approx. 50 participants across academia and public health
+:::
 
-```{r}
-1 + 1
-```
+What does responsible modelling look like?
+
+While epidemiological modelling expands in capacity and visibility, professional norms for evaluation and ethical conduct are still taking shape.
+
+This one-day workshop brings together the infectious disease modelling community to build a shared understanding of what responsibility means in practice, addressing questions across model design, implementation, and use.
+
+Centring evaluation, we will examine both the scientific validity and social legitimacy of epidemiological models. 
+
+Together, we will:
+
+- Compare technical evaluation approaches across epidemiological contexts, from sustained control programmes to real-time outbreak response
+- Identify the role of expertise and value judgement when developing models for public health action
+- Learn from peers' experiences while building a community of practice
+
+Through expert-led sessions and collaborative discussion, we will identify opportunities to strengthen responsible practices in our own work and the wider field.
+
+---
+
+Organised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), and supported by LSHTM CMMID
