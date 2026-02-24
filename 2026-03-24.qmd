@@ -6,66 +6,21 @@ _Draft schedule subject to change_
 
 ## Draft schedule
 
-10:00
-
-Welcome activity
-
-10:15
-
-Introduction & aims
-
-10:30
-
-Session A:  Scientific responsibility
-
-10:45
-
-What? Evaluation across epidemiological contexts
-
-11:25
-
-So What? Implications for scientific responsibility
-
-11.45
-
-Coffee break
-
-12:00
-
-Now What? Designing training for responsible modellers
-
-12:45
-
-Lunch
-
-13.45
-
-Session B: Social responsibility
-
-13:55
-
-What? Evaluation across public health contexts
-
-14:25
-
-So What? Implications for social responsibility
-
-14:45
-
-Coffee break
-
-15:00
-
-Now What? Designing training for responsible modellers
-
-15:45
-
-Review
-
-16:10
-
-25/10 Crowd sourcing & joint prioritisation
-
-16:20
-
-Organiser reflections
+| Time  | Session                                            |
+|-------|----------------------------------------------------|
+| 10:00 | Welcome activity                                   |
+| 10:15 | Introduction & aims                                |
+| 10:30 | **Session A: Scientific responsibility**           |
+| 10:45 | What? Evaluation across epidemiological contexts   |
+| 11:25 | So What? Implications for scientific responsibility|
+| 11:45 | _Coffee break_                                     |
+| 12:00 | Now What? Designing training for responsible modellers |
+| 12:45 | _Lunch_                                            |
+| 13:45 | **Session B: Social responsibility**               |
+| 13:55 | What? Evaluation across public health contexts     |
+| 14:25 | So What? Implications for social responsibility    |
+| 14:45 | _Coffee break_                                     |
+| 15:00 | Now What? Designing training for responsible modellers |
+| 15:45 | Review                                             |
+| 16:10 | 25/10 Crowd sourcing & joint prioritisation        |
+| 16:20 | Organiser reflections                              |
