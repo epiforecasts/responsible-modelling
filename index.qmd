@@ -1,31 +1,27 @@
 ---
-title: "Exploring responsibility in infectious disease modelling"
+title: "Evaluation and responsibility in infectious disease modelling"
 ---
 
 :::{.callout-note .column-margin}
 ## Key details
 
 - **Date:** 24 March 2026
-- **Timing:** 09.00 - 16.00
+- **Timing:** 10.00 - 16.00
 - **Location:** London School of Hygiene & Tropical Medicine, Keppel St, London WC1E 7HT
-- **Participants:** approx. 50 participants across academia and public health
+- **Participants:** 30-50 participants across academia and public health
 :::
 
-What does responsible modelling look like?
+We are convening a one-day workshop (24 March 2026, LSHTM) to explore scientific and social responsibilities in modelling. 
+We aim to build a shared understanding of how modelling work is evaluated across epidemiological and public health contexts. 
+Working from this, we will collaboratively draw out professional norms, values, and expectations. 
+Then we'll test what this looks like in practice by co-designing training material for responsible modellers.
 
-While epidemiological modelling expands in capacity and visibility, professional norms for evaluation and ethical conduct are still taking shape.
+The day is structured around two complementary themes:
 
-This one-day workshop brings together the infectious disease modelling community to build a shared understanding of what responsibility means in practice, addressing questions across model design, implementation, and use.
+- **Epidemiology, evaluation, and scientific responsibility** 
+- **Public health, values, and social responsibility**
 
-Centring evaluation, we will examine both the scientific validity and social legitimacy of epidemiological models. 
-
-Together, we will:
-
-- Compare technical evaluation approaches across epidemiological contexts, from sustained control programmes to real-time outbreak response
-- Identify the role of expertise and value judgement when developing models for public health action
-- Learn from peers' experiences while building a community of practice
-
-Through expert-led sessions and collaborative discussion, we will identify opportunities to strengthen responsible practices in our own work and the wider field.
+The day closes with a joint priority-setting exercise, drawing on both themes to identify practical ideas and resources for embedding responsibility into modelling work.
 
 ---
 
