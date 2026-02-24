@@ -11,17 +11,16 @@ title: "Evaluation and responsibility in infectious disease modelling"
 - **Participants:** 30-50 participants across academia and public health
 :::
 
-We are convening a one-day workshop (24 March 2026, LSHTM) to explore scientific and social responsibilities in modelling. 
-We aim to build a shared understanding of how modelling work is evaluated across epidemiological and public health contexts. 
-Working from this, we will collaboratively draw out professional norms, values, and expectations. 
-Then we'll test what this looks like in practice by co-designing training material for responsible modellers.
+How do we evaluate modelling work, and what does that imply about modelling responsibly?
+We're aiming to bring together perspectives on model evaluation across epidemiological and public health contexts. 
+We'll collaboratively map out professional norms, values, and responsibilities, and experiment with putting this into practice by co-designing training material for responsible modellers.
 
 The day is structured around two complementary themes:
 
 - **Epidemiology, evaluation, and scientific responsibility** 
 - **Public health, values, and social responsibility**
 
-The day closes with a joint priority-setting exercise, drawing on both themes to identify practical ideas and resources for embedding responsibility into modelling work.
+The day closes with a joint priority-setting exercise, drawing across both themes to create a practical resource for considering responsibility in infectious disease modelling.
 
 ---
 
