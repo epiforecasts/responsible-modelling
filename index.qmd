@@ -1,21 +1,24 @@
 ---
+
 ---
 
 :::{.callout-note .column-margin}
 ## Key details
 
-- **Date:** 24 March 2026
-- **Timing:** 10.00 - 16.30
-- **Location:** London School of Hygiene & Tropical Medicine, Keppel St, London WC1E 7HT
-- **Participants:** 30-50 participants across academia and public health
+- 24 March 2026, 10.00–16.30
+- LSHTM, Keppel St, London WC1E 7HT
+- 30-50 participants across academia and public health
+- [Join us](register.qmd)
 :::
 
 ### How do we evaluate modelling work, and what does that imply about modelling responsibly?
 
+:::{.panel-tabset}
+## Overview
 
 In this workshop, we bring together perspectives on model evaluation across epidemiological and public health contexts.
 
-We'll use this to collaboratively map out professional norms and values, and experiment with what this looks like in practice by co-designing training material for responsible modellers.
+We'll use this to collaboratively map out professional norms and values, and experiment with what this looks like in practice by co-designing training material for responsible modelling.
 
 The day is structured around two complementary themes:
 
@@ -24,7 +27,57 @@ The day is structured around two complementary themes:
 
 We'll conclude with a priority-setting exercise, drawing across both themes to create practical resources for supporting responsible modelling work.
 
-See the draft [schedule](2026-03-24.qmd), and [join us](register.qmd).
+## Agenda
+
+10:00 Welcome activity
+
+10:15 Introduction & aims
+
+> Theme: Scientific responsibility
+
+10:30 Opening: Modelling & scientific responsibility
+
+10:40 Evaluation across epidemiological contexts
+
+11:10 Implications for scientific responsibility
+
+- _11:30 Break_
+
+11:45 Training scientifically responsible modellers
+
+- _12:30 Lunch_
+
+> Theme: Social responsibility
+
+13:30 Opening: Modelling & social responsibility
+
+13:40 Evaluation across public health contexts
+
+14:10 Implications for social responsibility
+
+- _14:30 Break_
+
+15:00 Training socially responsible modellers
+
+> Theme: Implementation
+
+16:00 Crowd sourcing priorities
+
+16:30 Close
+
+**See the full [schedule](2026-03-24.qmd)**
+
+## Join
+
+Get in touch with Kath Sherratt for registration:
+
+- [katharine.sherratt@lshtm.ac.uk](mailto:katharine.sherratt@lshtm.ac.uk)
+
+We encourage participation from all, and welcome a range of backgrounds and experiences. 
+There is no cost to attend the event. 
+
+> [Find out more](register.qmd)
+:::
 
 
 ---

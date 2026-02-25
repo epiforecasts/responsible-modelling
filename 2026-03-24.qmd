@@ -27,37 +27,37 @@ Please [join us](register.qmd)!
 |       |                                                                 |
 |       | > Speaker: Sebastian Funk                                       |
 +-------+-----------------------------------------------------------------+
-| 10:45 | Evaluation across epidemiological contexts                      |
+| 10:40 | Evaluation across epidemiological contexts                      |
 |       |                                                                 |
-|       | > Panel: Matt Keeling, Kaitlyn Johnson                          |
+|       | > Panel: Matt Keeling, Kaitlyn Johnson, TBC                     |
 +-------+-----------------------------------------------------------------+
-| 11:25 | Implications for scientific responsibility                      |
+| 11:10 | Implications for scientific responsibility                      |
 |       |                                                                 |
 |       | > Participants: Nested group discussion                         |
 +-------+-----------------------------------------------------------------+
-| 11:45 | *Break*                                                         |
+| 11:30 | *Break*                                                         |
 +-------+-----------------------------------------------------------------+
-| 12:00 | Training scientifically responsible modellers                   |
+| 11:45 | Training scientifically responsible modellers                   |
 |       |                                                                 |
 |       | > Participants: Small group co-design                           |
 +-------+-----------------------------------------------------------------+
-| 12:45 | *Lunch*                                                         |
+| 12:30 | *Lunch*                                                         |
 +-------+-----------------------------------------------------------------+
 |       | **Session B: Social responsibility**                            |
 +-------+-----------------------------------------------------------------+
-| 13:45 | Opening: Modelling & social responsibility                      |
+| 13:30 | Opening: Modelling & social responsibility                      |
 |       |                                                                 |
 |       | > Speaker: Erica Thompson                                       |
 +-------+-----------------------------------------------------------------+
-| 13:55 | Evaluation across public health contexts                        |
+| 13:40 | Evaluation across public health contexts                        |
 |       |                                                                 |
-|       | > Panel: Graham Medley, Elinor Godfrey                          |
+|       | > Panel: Graham Medley, Elinor Godfrey, TBC                     |
 +-------+-----------------------------------------------------------------+
-| 14:25 | Implications for social responsibility                          |
+| 14:10 | Implications for social responsibility                          |
 |       |                                                                 |
 |       | > Participants: Nested group discussion                         |
 +-------+-----------------------------------------------------------------+
-| 14:45 | *Break*                                                         |
+| 14:30 | *Break*                                                         |
 +-------+-----------------------------------------------------------------+
 | 15:00 | Training socially responsible modellers                         |
 |       |                                                                 |
