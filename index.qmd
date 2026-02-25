@@ -1,5 +1,5 @@
 ---
-
+title: "How do we evaluate modelling work, and what does that imply about modelling responsibly?"
 ---
 
 :::{.callout-note .column-margin}
@@ -10,8 +10,6 @@
 - 30-50 participants across academia and public health
 - [Join us](register.qmd)
 :::
-
-### How do we evaluate modelling work, and what does that imply about modelling responsibly?
 
 :::{.panel-tabset}
 ## Overview
