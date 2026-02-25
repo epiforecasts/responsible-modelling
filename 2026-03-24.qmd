@@ -13,31 +13,31 @@ Each session uses a [*What / So What / Now What*](https://www.liberatingstructur
 +=======+=================================================================+
 | 10:00 | Welcome activity                                                |
 |       |                                                                 |
-|       | -   Participants: Role models                                   |
+|       | > Participants: Role models                                     |
 +-------+-----------------------------------------------------------------+
 | 10:15 | Introduction & aims                                             |
 |       |                                                                 |
-|       | -   Welcome: Katharine Sherratt, Sebastian Funk, Erica Thompson |
+|       | > Welcome: Katharine Sherratt, Sebastian Funk, Erica Thompson   |
 +-------+-----------------------------------------------------------------+
 |       | **Session A: Scientific responsibility**                        |
 +-------+-----------------------------------------------------------------+
 | 10:30 | Opening: Modelling & scientific responsibility                  |
 |       |                                                                 |
-|       | -   Speaker: Sebastian Funk                                     |
+|       | > Speaker: Sebastian Funk                                       |
 +-------+-----------------------------------------------------------------+
 | 10:45 | Evaluation across epidemiological contexts                      |
 |       |                                                                 |
-|       | -   Panel: Matt Keeling, Kaitlyn Johnson                        |
+|       | > Panel: Matt Keeling, Kaitlyn Johnson                          |
 +-------+-----------------------------------------------------------------+
 | 11:25 | Implications for scientific responsibility                      |
 |       |                                                                 |
-|       | -   Participants: Nested group discussion                       |
+|       | > Participants: Nested group discussion                         |
 +-------+-----------------------------------------------------------------+
 | 11:45 | *Break*                                                         |
 +-------+-----------------------------------------------------------------+
 | 12:00 | Training scientifically responsible modellers                   |
 |       |                                                                 |
-|       | -   Participants: Small group co-design                         |
+|       | > Participants: Small group co-design                           |
 +-------+-----------------------------------------------------------------+
 | 12:45 | *Lunch*                                                         |
 +-------+-----------------------------------------------------------------+
@@ -45,21 +45,21 @@ Each session uses a [*What / So What / Now What*](https://www.liberatingstructur
 +-------+-----------------------------------------------------------------+
 | 13:45 | Opening: Modelling & social responsibility                      |
 |       |                                                                 |
-|       | -   Speaker: Erica Thompson                                     |
+|       | > Speaker: Erica Thompson                                       |
 +-------+-----------------------------------------------------------------+
 | 13:55 | Evaluation across public health contexts                        |
 |       |                                                                 |
-|       | -   Panel: Graham Medley, Elinor Godfrey                        |
+|       | > Panel: Graham Medley, Elinor Godfrey                          |
 +-------+-----------------------------------------------------------------+
 | 14:25 | Implications for social responsibility                          |
 |       |                                                                 |
-|       | -   Participants: Nested group discussion                       |
+|       | > Participants: Nested group discussion                         |
 +-------+-----------------------------------------------------------------+
 | 14:45 | *Break*                                                         |
 +-------+-----------------------------------------------------------------+
 | 15:00 | Training socially responsible modellers                         |
 |       |                                                                 |
-|       | -   Participants: Small group co-design                         |
+|       | > Participants: Small group co-design                           |
 +-------+-----------------------------------------------------------------+
 | 15:45 | Gallery of co-designed training materials                       |
 +-------+-----------------------------------------------------------------+
@@ -67,7 +67,7 @@ Each session uses a [*What / So What / Now What*](https://www.liberatingstructur
 +-------+-----------------------------------------------------------------+
 | 16:00 | Crowd sourcing priorities                                       |
 |       |                                                                 |
-|       | -   Participants: Rapid rating exercise                         |
+|       | > Participants: Rapid rating exercise                           |
 +-------+-----------------------------------------------------------------+
 | 16:30 | Close                                                           |
 +-------+-----------------------------------------------------------------+
