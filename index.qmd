@@ -13,7 +13,7 @@
 ### How do we evaluate modelling work, and what does that imply about modelling responsibly?
 
 
-In this workshop, we bring together perspectives on model evaluation across epidemiological and public health contexts. 
+In this workshop, we bring together perspectives on model evaluation across epidemiological and public health contexts.
 
 We'll use this to collaboratively map out professional norms and values, and experiment with what this looks like in practice by co-designing training material for responsible modellers.
 
@@ -22,9 +22,10 @@ The day is structured around two complementary themes:
 - Epidemiology, evaluation, and scientific responsibility
 - Public health, values, and social responsibility
 
-The day closes with a joint priority-setting exercise, drawing across both themes to create practical resources for supporting responsible modelling work.
+We'll conclude with a priority-setting exercise, drawing across both themes to create practical resources for supporting responsible modelling work.
 
-See the draft [schedule](2026-03-24.qmd), and [join in](register.qmd).
+See the draft [schedule](2026-03-24.qmd), and [join us](register.qmd).
+
 
 ---
 
