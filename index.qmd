@@ -1,5 +1,4 @@
 ---
-title: "Evaluation and responsibility in infectious disease modelling"
 ---
 
 :::{.callout-note .column-margin}
