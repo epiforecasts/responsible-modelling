@@ -12,7 +12,8 @@
 
 ### How do we evaluate modelling work, and what does that imply about modelling responsibly?
 
-We're aiming to bring together perspectives on model evaluation across epidemiological and public health contexts. 
+
+In this workshop, we bring together perspectives on model evaluation across epidemiological and public health contexts. 
 
 We'll use this to collaboratively map out professional norms and values, and experiment with what this looks like in practice by co-designing training material for responsible modellers.
 

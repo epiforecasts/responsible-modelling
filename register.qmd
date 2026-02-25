@@ -2,32 +2,30 @@
 title: "Join us"
 ---
 
-Please join us on the 24 March 2026. 
+We encourage participation from all, and welcome a range of backgrounds and experiences. 
+Please join us on the 24 March 2026.
 
-Get in touch for a registration link: 
+Get in touch with Kath Sherratt for registration:
 
 [katharine.sherratt@lshtm.ac.uk](mailto:katharine.sherratt@lshtm.ac.uk)
 
 #### About the workshop
 
-We encourage participation from all, and welcome a range of backgrounds and experiences. 
-
 There is no cost to attend the event.
 
-Lunch and refreshments will be provided.
+We will provide lunch and refreshments. 
+We have some funds available to support UK travel, and support adjustments for accessibility wherever possible.
 
-We have some funds available to support UK travel, and support adjustments for accessibility wherever possible. 
-
-Please email katharine.sherratt@lshtm.ac.uk for more information and support with travel or accessibility.
+Please email [katharine.sherratt@lshtm.ac.uk](mailto:katharine.sherratt@lshtm.ac.uk) for more information and support with travel or accessibility.
 
 #### Workshop materials
 
-We are unable to provide recordings of the workshop. 
+We are unable to provide recordings of the workshop. All workshop materials will be available on this website.
 
-All workshop materials will be available on this website.
-
+```{=html}
 <!-- placeholder for registration form
 
 <iframe style="border:none;width:100%;" id="contact-form-m3dino" src="https://opnform.com/forms/contact-form-m3dino"></iframe><script type="text/javascript" onload="initEmbed('contact-form-m3dino', { autoResize: true })" src="https://opnform.com/widgets/iframe.min.js"></script>
 
  end placeholder -->
+```
