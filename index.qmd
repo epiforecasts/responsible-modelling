@@ -16,24 +16,24 @@
 :::{.panel-tabset}
 ## Overview
 
-In this workshop, we bring together perspectives on model evaluation across epidemiological and public health contexts.
+We're inviting participants to join a one day workshop on evaluation and responsibility in infectious disease modelling. Through the day, we'll:
 
-We'll use this to collaboratively map out professional norms and values, and experiment with what this looks like in practice by co-designing training material for responsible modelling.
+- compare perspectives on evaluation in epidemiological and public health contexts
+- collaboratively map out what this means for professional norms, values, and responsibilities
+- experiment with what this looks like in practice by co-designing training material for modellers 
 
-The day is structured around two complementary themes:
+We intend to directly support participants by building up practical ideas, resources, and relationships.
+While we anticipate a UK focus, we welcome contributions from any context.
 
-- Epidemiology, evaluation, and scientific responsibility
-- Public health, values, and social responsibility
-
-We'll conclude with a priority-setting exercise, drawing across both themes to create practical resources for supporting responsible modelling work.
+We encourage participants from all career experiences and interests to join us.
 
 ## Agenda
 
-10:00 Welcome activity
+10:00 Welcome activity: Nominating role models
 
 10:15 Introduction & aims
 
-> Theme: Scientific responsibility
+---
 
 10:30 Opening: Modelling & scientific responsibility
 
@@ -41,13 +41,13 @@ We'll conclude with a priority-setting exercise, drawing across both themes to c
 
 11:10 Implications for scientific responsibility
 
-- _11:30 Break_
+_11:30 Coffee break_
 
 11:45 Training scientifically responsible modellers
 
-- _12:30 Lunch_
+_12:30 Lunch_
 
-> Theme: Social responsibility
+---
 
 13:30 Opening: Modelling & social responsibility
 
@@ -55,15 +55,19 @@ We'll conclude with a priority-setting exercise, drawing across both themes to c
 
 14:10 Implications for social responsibility
 
-- _14:30 Break_
+_14:30 Fresh air break_
 
 15:00 Training socially responsible modellers
 
-> Theme: Implementation
+15:45 Gallery of co-designed training materials
 
-16:00 Crowd sourcing priorities
+---
+
+16:00 Crowd sourcing: big priorities and small next steps
 
 16:30 Close
+
+---
 
 **See the full [schedule](2026-03-24.qmd)**
 
