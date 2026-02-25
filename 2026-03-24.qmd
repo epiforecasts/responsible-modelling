@@ -2,25 +2,30 @@
 title: "24 March 2026"
 ---
 
-_Draft schedule subject to change_
+*Draft schedule*
 
-## Draft schedule
+The day is designed to be interactive, with a focus on reflection, discussion, and co-designing practical resources.
 
-| Time  | Session                                            |
-|-------|----------------------------------------------------|
-| 10:00 | Welcome activity                                   |
-| 10:15 | Introduction & aims                                |
-| 10:30 | **Session A: Scientific responsibility**           |
-| 10:45 | What? Evaluation across epidemiological contexts   |
-| 11:25 | So What? Implications for scientific responsibility|
-| 11:45 | _Coffee break_                                     |
-| 12:00 | Now What? Designing training for responsible modellers |
-| 12:45 | _Lunch_                                            |
-| 13:45 | **Session B: Social responsibility**               |
-| 13:55 | What? Evaluation across public health contexts     |
-| 14:25 | So What? Implications for social responsibility    |
-| 14:45 | _Coffee break_                                     |
-| 15:00 | Now What? Designing training for responsible modellers |
-| 15:45 | Review                                             |
-| 16:10 | 25/10 Crowd sourcing & joint prioritisation        |
-| 16:20 | Organiser reflections                              |
+Each session uses a [*What / So What / Now What*](https://www.liberatingstructures.com/9-what-so-what-now-what-w/) structure, building up from panels and mixed breakout formats for group discussion.
+
+| Time  | Session                                        |
+|-------|------------------------------------------------|
+| 10:00 | Welcome activity                               |
+| 10:15 | Introduction & aims                            |
+|       | **Session A: Scientific responsibility**       |
+| 10:30 | Opening: Modelling & scientific responsibility |
+| 10:45 | Evaluation across epidemiological contexts     |
+| 11:25 | Implications for scientific responsibility     |
+| 11:45 | *Break*                                        |
+| 12:00 | Training scientifically responsible modellers  |
+| 12:45 | *Lunch*                                        |
+|       | **Session B: Social responsibility**           |
+| 13:45 | Opening: Modelling & social responsibility     |
+| 13:55 | Evaluation across public health contexts       |
+| 14:25 | Implications for social responsibility         |
+| 14:45 | *Break*                                        |
+| 15:00 | Training socially responsible modellers        |
+| 15:45 | Gallery of co-designed training materials      |
+|       | **Implementation**                             |
+| 16:00 | Crowd sourcing priorities                      |
+| 16:30 | Close                                          |

@@ -6,21 +6,23 @@ title: "Evaluation and responsibility in infectious disease modelling"
 ## Key details
 
 - **Date:** 24 March 2026
-- **Timing:** 10.00 - 16.00
+- **Timing:** 10.00 - 16.30
 - **Location:** London School of Hygiene & Tropical Medicine, Keppel St, London WC1E 7HT
 - **Participants:** 30-50 participants across academia and public health
 :::
 
-How do we evaluate modelling work, and what does that imply about modelling responsibly?
+### How do we evaluate modelling work, and what does that imply about modelling responsibly?
+
 We're aiming to bring together perspectives on model evaluation across epidemiological and public health contexts. 
+
 We'll use this to collaboratively map out professional norms and values, and experiment with what this looks like in practice by co-designing training material for responsible modellers.
 
 The day is structured around two complementary themes:
 
-- **Epidemiology, evaluation, and scientific responsibility** 
-- **Public health, values, and social responsibility**
+- Epidemiology, evaluation, and scientific responsibility
+- Public health, values, and social responsibility
 
-The day closes with a joint priority-setting exercise, drawing across both themes to create a practical resource for considering responsibility in infectious disease modelling.
+The day closes with a joint priority-setting exercise, drawing across both themes to create practical resources for supporting responsible modelling work.
 
 ---
 
