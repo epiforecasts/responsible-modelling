@@ -2,27 +2,25 @@
 title: "How do we evaluate modelling work, and what does that imply about modelling responsibly?"
 ---
 
-:::{.callout-note .column-margin}
+::: {.callout-note .column-margin}
 ## Key details
 
-- 24 March 2026, 10.00–16.30
-- LSHTM, Keppel St, London WC1E 7HT
-- 30-50 participants across academia and public health
-- [Join us](register.qmd)
+-   24 March 2026, 10.00–16.30
+-   LSHTM, Keppel St, London WC1E 7HT
+-   30-50 participants across academia and public health
+-   [Join us](register.qmd)
 :::
 
-:::{.panel-tabset}
+::: panel-tabset
 ## Overview
 
 We're inviting participants to join a one day workshop on evaluation and responsibility in infectious disease modelling. Through the day, we'll:
 
-- compare perspectives on evaluation in epidemiological and public health contexts
-- collaboratively map out what this means for professional norms, values, and responsibilities
-- experiment with what this looks like in practice by co-designing training material for modellers 
+-   compare perspectives on evaluation in epidemiological and public health contexts
+-   collaboratively map out what this means for professional norms, values, and responsibilities
+-   experiment with what this looks like in practice by co-designing training material for modellers
 
-We intend to directly support participants by building up practical ideas, resources, and relationships.
-While we anticipate a UK focus, we welcome contributions from any context.
-We encourage participants from all career experiences and interests to join.
+We intend to directly support participants by building up practical ideas, resources, and relationships. While we anticipate a UK focus, we welcome contributions from any context. We encourage participants from all career experiences and interests to join.
 
 ## Agenda
 
@@ -30,7 +28,7 @@ We encourage participants from all career experiences and interests to join.
 
 10:15 Introduction & aims
 
----
+------------------------------------------------------------------------
 
 10:30 Opening: Modelling & scientific responsibility
 
@@ -38,13 +36,13 @@ We encourage participants from all career experiences and interests to join.
 
 11:10 Implications for scientific responsibility
 
-_11:30 Coffee break_
+*11:30 Coffee break*
 
 11:45 Training scientifically responsible modellers
 
-_12:30 Lunch_
+*12:30 Lunch*
 
----
+------------------------------------------------------------------------
 
 13:30 Opening: Modelling & social responsibility
 
@@ -52,19 +50,19 @@ _12:30 Lunch_
 
 14:10 Implications for social responsibility
 
-_14:30 Fresh air break_
+*14:30 Fresh air break*
 
 15:00 Training socially responsible modellers
 
 15:45 Gallery of co-designed training materials
 
----
+------------------------------------------------------------------------
 
 16:00 Crowd sourcing: big priorities and small next steps
 
 16:30 Close
 
----
+------------------------------------------------------------------------
 
 **See the full [schedule](2026-03-24.qmd)**
 
@@ -72,12 +70,10 @@ _14:30 Fresh air break_
 
 Get in touch with Kath Sherratt to join:
 
-- [katharine.sherratt@lshtm.ac.uk](mailto:katharine.sherratt@lshtm.ac.uk)
-- [More information](register.qmd)
-
+-   [katharine.sherratt\@lshtm.ac.uk](mailto:katharine.sherratt@lshtm.ac.uk)
+-   [More information](register.qmd)
 :::
 
-
----
+------------------------------------------------------------------------
 
 Organised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), and supported by LSHTM CMMID
