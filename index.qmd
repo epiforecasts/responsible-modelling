@@ -68,10 +68,11 @@ We intend to directly support participants by building up practical ideas, resou
 
 ## Join
 
-Get in touch with Kath Sherratt to join:
+This event is open to all, and we welcome anyone to join. Just let us know you're interested and we'll share logistics for the day.
 
--   [katharine.sherratt\@lshtm.ac.uk](mailto:katharine.sherratt@lshtm.ac.uk)
--   [More information](register.qmd)
+- [Join us](mailto:katharine.sherratt@lshtm.ac.uk?subject=Register%20to%20join%3A%20Evaluation%20and%20Responsible%20Modelling&body=Please%20share%20details%20to%20join%20the%20workshop%20on%20Evaluation%20and%20Responsible%20Modelling.)
+-  Contact: [Kath Sherratt](mailto:katharine.sherratt@lshtm.ac.uk)
+-  [More information](register.qmd)
 :::
 
 ------------------------------------------------------------------------
