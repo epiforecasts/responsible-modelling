@@ -6,17 +6,18 @@ We encourage participants to join us from any background and experience.
 
 Just let us know you're interested below - we'll be in touch with details for joining on the day.
 
-- [Join us](mailto:katharine.sherratt@lshtm.ac.uk?subject=Register%20to%20join%3A%20Evaluation%20and%20Responsible%20Modelling&body=Please%20share%20details%20to%20join%20the%20workshop%20on%20Evaluation%20and%20Responsible%20Modelling.)
-
-#### Participant support
+::: {.callout-info collapse="true"}
+## Participant support
 
 There is no cost to attend.
 
-We will provide lunch and refreshments. 
-We have some funds available to support UK travel, and support adjustments for accessibility wherever possible.
+We will provide lunch and refreshments.
+We have some funds available to support UK travel, and can make accessibility adjustments wherever possible.
 
 Please email Kath at [katharine.sherratt@lshtm.ac.uk](mailto:katharine.sherratt@lshtm.ac.uk) for more information and support with travel or accessibility.
 
-#### Workshop materials
-
 We are unable to provide recordings of the workshop. All workshop materials will be available on this website.
+:::
+
+
+<iframe style="border:none;width:100%;" id="contact-form-m3dino" src="https://opnform.com/forms/contact-form-m3dino"></iframe><script type="text/javascript" onload="initEmbed('contact-form-m3dino', { autoResize: true })" src="https://opnform.com/widgets/iframe.min.js"></script>

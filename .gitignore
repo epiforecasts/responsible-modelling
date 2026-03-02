@@ -7,3 +7,4 @@ _freeze/.DS_Store
 /.quarto/
 /_site/
 admin/
+.DS_Store
