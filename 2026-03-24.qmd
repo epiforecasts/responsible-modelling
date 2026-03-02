@@ -28,7 +28,7 @@ Each session builds from panels and a variety of formats for effective and fun g
 +--------------+---------------------------------------------------------------+
 | 10:40        | Evaluation across epidemiological contexts                    |
 |              |                                                               |
-|              | > Panel: Matt Keeling, Kaitlyn Johnson                        |
+|              | > Panel: Matt Keeling, Kaitlyn Johnson, UKHSA representative                        |
 +--------------+---------------------------------------------------------------+
 | 11:10        | Implications for scientific responsibility                    |
 |              |                                                               |
@@ -50,7 +50,7 @@ Each session builds from panels and a variety of formats for effective and fun g
 +--------------+---------------------------------------------------------------+
 | 13:40        | Evaluation across public health contexts                      |
 |              |                                                               |
-|              | > Panel: Graham Medley, Elinor Godfrey                        |
+|              | > Panel: Graham Medley, UKHSA representative, TBC                        |
 +--------------+---------------------------------------------------------------+
 | 14:10        | Implications for social responsibility                        |
 |              |                                                               |
