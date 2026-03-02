@@ -8,7 +8,9 @@ title: "How do we evaluate modelling work, and what does that imply about modell
 -   24 March 2026, 10.00–16.30
 -   LSHTM, Keppel St, London WC1E 7HT
 -   30-50 participants across academia and public health
--   [Join us](register.qmd)
+
+<button>[Register](register.qmd)</button>
+
 :::
 
 ::: panel-tabset
@@ -22,7 +24,7 @@ We're inviting participants to join a one day workshop on evaluation and respons
 
 We intend to directly support participants by building up practical ideas, resources, and relationships. While we anticipate a UK focus, we welcome contributions from any context. We encourage participants from all career experiences and interests to join.
 
-- [Join us](mailto:katharine.sherratt@lshtm.ac.uk?subject=Register%20to%20join%3A%20Evaluation%20and%20Responsible%20Modelling&body=Please%20share%20details%20to%20join%20the%20workshop%20on%20Evaluation%20and%20Responsible%20Modelling.)
+<button>[Register](register.qmd)</button>
 
 ## Agenda
 
@@ -66,15 +68,15 @@ We intend to directly support participants by building up practical ideas, resou
 
 ------------------------------------------------------------------------
 
-**See the full [schedule](2026-03-24.qmd)**
+<button>[Schedule](2026-03-24.qmd)</button>
 
 ## Join
 
 This event is open to all, and we welcome anyone to join. Just let us know you're interested and we'll share logistics for the day.
 
-- [Join us](mailto:katharine.sherratt@lshtm.ac.uk?subject=Register%20to%20join%3A%20Evaluation%20and%20Responsible%20Modelling&body=Please%20share%20details%20to%20join%20the%20workshop%20on%20Evaluation%20and%20Responsible%20Modelling.)
--  Contact: [Kath Sherratt](mailto:katharine.sherratt@lshtm.ac.uk)
--  [More information](register.qmd)
+<button> Register](register.qmd)</button>
+
+For more information, contact: [Kath Sherratt](mailto:katharine.sherratt@lshtm.ac.uk)
 :::
 
 ------------------------------------------------------------------------

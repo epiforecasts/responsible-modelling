@@ -6,7 +6,7 @@ We encourage participants to join us from any background and experience.
 
 Just let us know you're interested below - we'll be in touch with details for joining on the day.
 
-::: {.callout-info collapse="true"}
+::: {.callout-note collapse="true"}
 ## Participant support
 
 There is no cost to attend.
