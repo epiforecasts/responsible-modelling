@@ -72,11 +72,12 @@ We intend to directly support participants by building up practical ideas, resou
 
 ## Join
 
-This event is open to all, and we welcome anyone to join. Just let us know you're interested and we'll share logistics for the day.
-
-<button> Register](register.qmd)</button>
-
+This event is open to all, and we welcome anyone to join. 
+Just let us know you're interested and we'll share logistics for the day.
 For more information, contact: [Kath Sherratt](mailto:katharine.sherratt@lshtm.ac.uk)
+
+<button>[Register](register.qmd)</button>
+
 :::
 
 ------------------------------------------------------------------------

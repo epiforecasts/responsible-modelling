@@ -28,7 +28,7 @@ Each session builds from panels and a variety of formats for effective and fun g
 +--------------+---------------------------------------------------------------+
 | 10:40        | Evaluation across epidemiological contexts                    |
 |              |                                                               |
-|              | > Panel: Matt Keeling, Kaitlyn Johnson, UKHSA representative                        |
+|              | > Panel: Matt Keeling (University of Warwick), Kaitlyn Johnson (LSHTM), TBC                       |
 +--------------+---------------------------------------------------------------+
 | 11:10        | Implications for scientific responsibility                    |
 |              |                                                               |
@@ -46,11 +46,11 @@ Each session builds from panels and a variety of formats for effective and fun g
 +--------------+---------------------------------------------------------------+
 | 13:30        | Opening: Modelling & social responsibility                    |
 |              |                                                               |
-|              | > Speaker: Erica Thompson                                     |
+|              | > Speaker: Erica Thompson (UCL)                                    |
 +--------------+---------------------------------------------------------------+
 | 13:40        | Evaluation across public health contexts                      |
 |              |                                                               |
-|              | > Panel: Graham Medley, UKHSA representative, TBC                        |
+|              | > Panel: Graham Medley (LSHTM), Juan Vesga (UKHSA), TBC                        |
 +--------------+---------------------------------------------------------------+
 | 14:10        | Implications for social responsibility                        |
 |              |                                                               |
