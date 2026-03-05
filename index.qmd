@@ -28,47 +28,76 @@ We intend to directly support participants by building up practical ideas, resou
 
 ## Agenda
 
-10:00 Welcome activity: Nominating role models
+*Draft schedule*
 
-10:15 Introduction & aims
+This workshop aims to encourage participant reflection, discussion, and co-design. 
+Each session builds from panels and a variety of formats for effective and fun group discussion[^1].
 
-------------------------------------------------------------------------
+[^1]: Workshop design motivated by principles of [structured groupwork](https://www.liberatingstructures.com/).
 
-10:30 Opening: Modelling & scientific responsibility
-
-10:40 Evaluation across epidemiological contexts
-
-11:10 Implications for scientific responsibility
-
-*11:30 Coffee break*
-
-11:45 Training scientifically responsible modellers
-
-*12:30 Lunch*
-
-------------------------------------------------------------------------
-
-13:30 Opening: Modelling & social responsibility
-
-13:40 Evaluation across public health contexts
-
-14:10 Implications for social responsibility
-
-*14:30 Fresh air break*
-
-15:00 Training socially responsible modellers
-
-15:45 Gallery of co-designed training materials
-
-------------------------------------------------------------------------
-
-16:00 Crowd sourcing: big priorities and small next steps
-
-16:30 Close
-
-------------------------------------------------------------------------
-
-<button>[Schedule](2026-03-24.qmd)</button>
++--------------+---------------------------------------------------------------+
+| 09.45        | Arrival                                                       |
++--------------+---------------------------------------------------------------+
+| 10:00        | Welcome activity                                              |
+|              |                                                               |
+|              | > Participants: Nominating role models                        |
++--------------+---------------------------------------------------------------+
+| 10:15        | Introduction & aims                                           |
+|              |                                                               |
+|              | > Welcome: Katharine Sherratt, Sebastian Funk, Erica Thompson |
++--------------+---------------------------------------------------------------+
+|              | **Session A: Scientific responsibility**                      |
++--------------+---------------------------------------------------------------+
+| 10:30        | Opening: Modelling & scientific responsibility                |
+|              |                                                               |
+|              | > Speaker: Sebastian Funk                                     |
++--------------+---------------------------------------------------------------+
+| 10:40        | Panel: Evaluation across epidemiological contexts             |
+|              |                                                               |
+|              | > Matt Keeling (Uni. Warwick), Kaitlyn Johnson (LSHTM), TBC |
++--------------+---------------------------------------------------------------+
+| 11:10        | Implications for scientific responsibility                    |
+|              |                                                               |
+|              | > Participants: Nested group discussion                       |
++--------------+---------------------------------------------------------------+
+| 11:30        | *Coffee break*                                                |
++--------------+---------------------------------------------------------------+
+| 11:45        | Training scientifically responsible modellers                 |
+|              |                                                               |
+|              | > Participants: Small group co-design                         |
++--------------+---------------------------------------------------------------+
+| 12:30        | *Lunch*                                                       |
++--------------+---------------------------------------------------------------+
+|              | **Session B: Social responsibility**                          |
++--------------+---------------------------------------------------------------+
+| 13:30        | Opening: Modelling & social responsibility                    |
+|              |                                                               |
+|              | > Speaker: Erica Thompson (UCL)                               |
++--------------+---------------------------------------------------------------+
+| 13:40        | Panel: Evaluation across public health contexts               |
+|              |                                                               |
+|              | > Graham Medley (LSHTM), Juan Vesga (UKHSA), TBC              |
++--------------+---------------------------------------------------------------+
+| 14:10        | Implications for social responsibility                        |
+|              |                                                               |
+|              | > Participants: Nested group discussion                       |
++--------------+---------------------------------------------------------------+
+| 14:30        | *Fresh air break*                                             |
++--------------+---------------------------------------------------------------+
+| 15:00        | Training socially responsible modellers                       |
+|              |                                                               |
+|              | > Participants: Small group co-design                         |
++--------------+---------------------------------------------------------------+
+| 15:45        | Gallery of co-designed training materials                     |
++--------------+---------------------------------------------------------------+
+|              | **Implementation**                                            |
++--------------+---------------------------------------------------------------+
+| 16:00        | Crowd sourcing: big priorities and smallest next steps        |
+|              |                                                               |
+|              | > Participants: Rapid rating exercise                         |
++--------------+---------------------------------------------------------------+
+| 16:30        | Close                                                         |
++--------------+---------------------------------------------------------------+
 
 ## Join
 
