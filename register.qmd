@@ -1,10 +1,8 @@
 ---
-title: "Join us"
+title: "Participate"
 ---
 
 We encourage participants to join us from any background and experience. 
-
-Just let us know you're interested below - we'll be in touch with details for joining on the day.
 
 ::: {.callout-note collapse="true"}
 ## Participant support
