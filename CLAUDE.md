@@ -20,7 +20,7 @@ Intended outcomes: shared resources/examples for good practice, a network of int
 Background references: Zotero library at https://www.zotero.org/groups/6153593/responsible_id_modelling
 
 ### Workshop style
-Collaborative, ~50 participants, in a single room. Facilitation aims to use appropriate Liberating Structures techniques where relevant: https://www.liberatingstructures.com/ls/
+Collaborative, ~30 participants, in a single room. Facilitation aims to use appropriate Liberating Structures techniques where relevant: https://www.liberatingstructures.com/ls/
 
 ## Commands
 - `quarto preview` — local dev server with live reload
