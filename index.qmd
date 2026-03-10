@@ -9,7 +9,7 @@ title: "How do we evaluate modelling work, and what does that imply about modell
 -   LSHTM, Keppel St, London WC1E 7HT
 -   30 participants across academia and public health
 
-<button>[Register](register.qmd)</button>
+<button>[Participate](register.qmd)</button>
 
 :::
 
@@ -24,7 +24,7 @@ We're inviting participants to join a one day workshop on evaluation and respons
 
 We intend to directly support participants by building up practical ideas, resources, and relationships. While we anticipate a UK focus, we welcome contributions from any context. We encourage participants from all career experiences and interests to join.
 
-<button>[Register](register.qmd)</button>
+<button>[Participate](register.qmd)</button>
 
 ## Agenda
 
@@ -101,11 +101,11 @@ Each session builds from panels and a variety of formats for effective and fun g
 
 ## Join
 
-This event is open to all, and we welcome anyone to join. 
-Just let us know you're interested and we'll share logistics for the day.
+This event is open to all, and we welcome anyone to join.
+If you're unable to join, let us know you're interested and we'll keep in touch with workshop outcomes. 
 For more information, contact: [Kath Sherratt](mailto:katharine.sherratt@lshtm.ac.uk)
 
-<button>[Register](register.qmd)</button>
+<iframe style="border:none;width:100%;" id="contact-form-m3dino" src="https://opnform.com/forms/contact-form-m3dino"></iframe><script type="text/javascript" onload="initEmbed('contact-form-m3dino', { autoResize: true })" src="https://opnform.com/widgets/iframe.min.js"></script>
 
 :::
 
