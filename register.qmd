@@ -2,7 +2,15 @@
 title: "Participate"
 ---
 
-We encourage participants to join us from any background and experience. 
+We encourage participants to join from any background and experience. 
+
+Registration for the workshop is open until 13 March.
+
+We have a limit on the number of participant places so that we can best support group work.
+We are likely to be oversubscribed and will operate a waitlist after this point.
+
+We will be in touch by 17 March to confirm places.
+Please [let us know](register_confirmation.html) as soon as possible if you can no longer attend.
 
 ::: {.callout-note collapse="true"}
 ## Participant support
