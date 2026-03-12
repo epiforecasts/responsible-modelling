@@ -35,69 +35,30 @@ Each session builds from panels and a variety of formats for effective and fun g
 
 [^1]: Workshop design motivated by principles of [structured groupwork](https://www.liberatingstructures.com/).
 
-+--------------+---------------------------------------------------------------+
-| 09.45        | Arrival                                                       |
-+--------------+---------------------------------------------------------------+
-| 10:00        | Welcome activity                                              |
-|              |                                                               |
-|              | > Participants: Nominating role models                        |
-+--------------+---------------------------------------------------------------+
-| 10:15        | Introduction & aims                                           |
-|              |                                                               |
-|              | > Welcome: Katharine Sherratt, Sebastian Funk, Erica Thompson |
-+--------------+---------------------------------------------------------------+
-|              | **Session A: Scientific responsibility**                      |
-+--------------+---------------------------------------------------------------+
-| 10:30        | Opening: Modelling & scientific responsibility                |
-|              |                                                               |
-|              | > Speaker: Sebastian Funk                                     |
-+--------------+---------------------------------------------------------------+
-| 10:40        | Panel: Evaluation across epidemiological contexts             |
-|              |                                                               |
-|              | > Matt Keeling (Uni. Warwick), Kaitlyn Johnson (LSHTM), TBC |
-+--------------+---------------------------------------------------------------+
-| 11:10        | Implications for scientific responsibility                    |
-|              |                                                               |
-|              | > Participants: Nested group discussion                       |
-+--------------+---------------------------------------------------------------+
-| 11:30        | *Coffee break*                                                |
-+--------------+---------------------------------------------------------------+
-| 11:45        | Training scientifically responsible modellers                 |
-|              |                                                               |
-|              | > Participants: Small group co-design                         |
-+--------------+---------------------------------------------------------------+
-| 12:30        | *Lunch*                                                       |
-+--------------+---------------------------------------------------------------+
-|              | **Session B: Social responsibility**                          |
-+--------------+---------------------------------------------------------------+
-| 13:30        | Opening: Modelling & social responsibility                    |
-|              |                                                               |
-|              | > Speaker: Erica Thompson (UCL)                               |
-+--------------+---------------------------------------------------------------+
-| 13:40        | Panel: Evaluation across public health contexts               |
-|              |                                                               |
-|              | > Graham Medley (LSHTM), Juan Vesga (UKHSA), TBC              |
-+--------------+---------------------------------------------------------------+
-| 14:10        | Implications for social responsibility                        |
-|              |                                                               |
-|              | > Participants: Nested group discussion                       |
-+--------------+---------------------------------------------------------------+
-| 14:30        | *Fresh air break*                                             |
-+--------------+---------------------------------------------------------------+
-| 15:00        | Training socially responsible modellers                       |
-|              |                                                               |
-|              | > Participants: Small group co-design                         |
-+--------------+---------------------------------------------------------------+
-| 15:45        | Gallery of co-designed training materials                     |
-+--------------+---------------------------------------------------------------+
-|              | **Implementation**                                            |
-+--------------+---------------------------------------------------------------+
-| 16:00        | Crowd sourcing: big priorities and smallest next steps        |
-|              |                                                               |
-|              | > Participants: Rapid rating exercise                         |
-+--------------+---------------------------------------------------------------+
-| 16:30        | Close                                                         |
-+--------------+---------------------------------------------------------------+
+| Time   | Content | Lead |
+|--------|----------|----------------------|
+| 09:45  | Arrival | |
+| 10:00  | Welcome activity | Participants |
+| 10:15  | Introduction & aims | Kath Sherratt, Sebastian Funk, Erica Thompson |
+| | **Evaluation & scientific responsibility** | |
+| 10:30  | Modelling & scientific responsibility | Sebastian Funk |
+| 10:40  | Evaluation across epidemiological contexts | Panel: Matt Keeling (Uni. Warwick), Kaitlyn Johnson (LSHTM), Jonathon Mellor (UKHSA) |
+| 11:10  | Implications for scientific responsibility | Participants: Nested group discussion |
+| 11:30  | *Coffee break* | |
+| 11:45  | Training scientifically responsible modellers | Participants: Small group co-design |
+| 12:30  | *Lunch* | |
+| | **Evaluation & social responsibility** | |
+| 13:30  | Modelling & social responsibility | Erica Thompson |
+| 13:40  | Evaluation across public health contexts | Panel: Graham Medley (LSHTM), Juan Vesga (UKHSA), Katy Gaythorpe (Imperial/Vaccine Impact Modelling Consortium) |
+| 14:10  | Implications for social responsibility | Participants: Nested group discussion |
+| 14:30  | *Fresh air break* | |
+| 15:00  | Review so far | Kath Sherratt |
+| 15:05  | Training socially responsible modellers | Participants: Small group co-design |
+| 15:50  | Gallery of co-designed training materials | |
+| | **Implementation** | |
+| 16:00  | Crowd sourcing: big priorities and smallest next steps | Participants: Rapid rating exercise |
+| 16:20  | Summary and actions | Kath Sherratt, Sebastian Funk, Erica Thompson |
+| 16:30  | Close | |
 
 ## Join
 
