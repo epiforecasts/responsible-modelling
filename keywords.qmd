@@ -18,49 +18,44 @@ library(wordcloud2)
 # fetch data
 url <- "https://docs.google.com/spreadsheets/d/1LE3XGIIMX0rCvGA_a6taXD4X9FWoT_pN7NlbjNMLc_E/edit?usp=sharing"
 ppts <- read_sheet(url)
+```
 
+```{r}
 keywords <- ppts |>
     select(id, contains("keywords"))
 colnames(keywords) <- c("id", "responsible", "irresponsible")
+# split into keywords delimited by commas (up to 3 for each responsible/irresponsible)
+keywords <- keywords |>
+  pivot_longer(cols = c(responsible, irresponsible), names_to = "type", values_to = "keywords") |>
+  separate_longer_delim(keywords, delim = ",") |>
+  unnest_tokens(output = keyword, input = keywords) |>
+  anti_join(get_stopwords("en"), by = c("keyword" = "word")) |>
+  mutate(keyword = ifelse(keyword=="na", NA, keyword))
+```
 
-# tokenize
-tokens <- keywords |>
-unnest_tokens(responsible_word, responsible) |>
-unnest_tokens(irresponsible_word, irresponsible) |>
-pivot_longer(cols = c(responsible_word, irresponsible_word), names_to = "type", values_to = "word") |>
-mutate(type = str_replace(type, "_word", ""), word = na_if(word, "na")) |>
-anti_join(get_stopwords("en"), by = c("word"))
-
-# count
-token_sentiment <- tokens |>
-     inner_join(get_sentiments("bing"), relationship = "many-to-many") |>
-     count(type, word, sentiment, sort = TRUE)
-
-# combine both types
-combined_data <- bind_rows(
-  token_sentiment |> filter(type == "responsible") |> mutate(type = "Responsible"),
-  token_sentiment |> filter(type == "irresponsible") |> mutate(type = "Irresponsible")
-) |>
-arrange(desc(n)) |>
-mutate(color = if_else(type == "Responsible", "#0173B2", "#DE8F05"))
+```{r}
+# arrange
+keywords <- keywords |>
+group_by(type, keyword) |>
+count() |>
+mutate(color = if_else(type == "responsible", "#0173B2", "#DE8F05")) |> 
+  drop_na()
 
 # prepare data for wordcloud2
-wc_data <- combined_data |>
-select(word, n) |>
+wc_data <- keywords |>
+select(keyword, n) |>
 as.data.frame()
 
 # create colour vector in same order as wc_data
-word_colors <- combined_data$color[match(wc_data$word, combined_data$word)]
+word_colors <- keywords$color[match(wc_data$keyword, keywords$keyword)]
 ```
 
 
 ```{r wordcloud}
-wordcloud2(data = wc_data,
-           color = word_colors,
-           size = 1.5,
-           backgroundColor = "white")
+irrespo <- filter(keywords, type == "irresponsible") |> 
+  drop_na()
+
+
 ```
-
-
 
 `r nrow(ppts)` participants, contributing up to 3 keywords to describe responsible/irresponsible modelling^[_Using up to 3 keywords, what does "responsible"/"irresponsible" modelling look like for you?_]. Word size represents frequency; coloured blue for responsible, orange for irresponsible.
