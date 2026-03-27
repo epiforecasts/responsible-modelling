@@ -1,0 +1,118 @@
+---
+title: "Global landscape of ID modelling training"
+---
+
+This page maps the global ecosystem of infectious disease modelling training resources, showing where they sit on the spectrum from academic/theoretical to applied/practical, and which topics they emphasise.
+
+## Key findings
+
+The training landscape shows clear patterns:
+
+1. **Universal foundation**: Compartmental models (SIR/SEIR) and basic reproduction number (R₀) appear in virtually every resource. These are the entry point to all other topics.
+
+2. **Academic-applied divide**: Textbooks (Keeling & Rohani, Martcheva, Anderson & May) focus on mathematical rigour and theoretical analysis. Applied courses (Imperial CPD, Coursera for decision-makers) prioritise practical skills and policy relevance. Few resources bridge both equally.
+
+3. **Methodological depth vs accessibility trade-off**: Mathematical textbooks offer depth in analysis (stability, bifurcation theory, Lyapunov functions) but assume strong maths background. Software-focused courses (Graph Courses, EpiR Handbook, EpiModel) are more accessible but less rigorous.
+
+4. **Emerging topics are siloed**: Machine learning, genomic epidemiology, and ensemble forecasting appear only in specialist modules (mainly SISMID, ESPIDAM) rather than foundational courses.
+
+5. **Critical gap in coverage**:
+   - **Ethics & model transparency**: 0 resources teach this formally
+   - **Uncertainty quantification**: Limited systematic treatment
+   - **Communication to non-technical audiences**: Only 1 dedicated course
+   - **Equity and access in modelling**: Addressed in 1 resource
+   - **Real-time outbreak response**: Barely formalised in any course
+
+## Landscape grid
+
+This grid maps 25+ training resources by their disciplinary orientation (rows) and primary teaching approach (columns). Shading indicates comprehensiveness of coverage.
+
+| **Disciplinary focus** | **Theoretical/Mathematical** | **Hybrid (Math + Applied)** | **Applied/Practical** | **Software-first** |
+|---|---|---|---|---|
+| **Academic research** | Keeling & Rohani, Anderson & May, Martcheva, Vynnycky & White, SISMID (math modules), ESPIDAM, ICTP-SAIFR | Bjornstad (R-based textbook), SISMID (mixed modules) | – | – |
+| **Public health & epidemiology** | – | DAIDD, Imperial CPD | Coursera (decision-makers), Harvard CCDD workshop | EpiModel training, EpiR Handbook, Graph Courses |
+| **Computational / statistics** | – | Coursera (modeling in practice), Martcheva | – | Bjornstad, EpiModel, Handel IDEMA, Graph Courses |
+| **Data science / forecasting** | – | SISMID (forecasting modules), ESPIDAM (nowcasting) | – | EpiR Handbook, Handel IDEMA |
+
+---
+
+## Resource summary by type
+
+### Textbooks (5)
+Canonical references, deep mathematical treatment, used globally:
+
+- **Keeling & Rohani (2008)**: *Modeling Infectious Diseases in Humans and Animals* — mathematical focus, chapters on dynamics, control, spatial models; no chapters on model evaluation or communication
+- **Anderson & May (1991)**: *Infectious Diseases of Humans: Dynamics and Control* — comprehensive reference across microparasites and macroparasites; foundational but assumes strong biology background
+- **Martcheva (2015)**: *An Introduction to Mathematical Epidemiology* — mathematically rigorous (ODE, PDE, age-structured models); includes fitting chapter; no coverage of policy or ethics
+- **Vynnycky & White (2010)**: *An Introduction to Infectious Disease Modelling* — accessible to epidemiologists, practical orientation; limited coverage of stochastic and spatial methods
+- **Bjornstad (2018/2022)**: *Epidemics: Models and Data using R* — unique in integrating R throughout; notable for time-series fitting chapters; bridges theory and practice
+
+### Intensive courses (7 major)
+2–4 week residential programs, mix of lectures and hands-on sessions:
+
+- **SISMID** (Emory, USA) — gold standard for breadth; mathematical modules + emerging topics (ML, forecasting, simulation-based inference); attracts global audience
+- **DAIDD** (South Africa, rotating sites) — applied orientation, designed for researchers in low-resource settings; explicit focus on real-world constraints
+- **ESPIDAM** (Sweden, annual) — European summer program; mathematical + emerging topics (AI, phylodynamics); strong in inference and nowcasting
+- **Imperial CPD** (London, UK) — short courses for practitioners; applied epidemiology focus; explicitly designed for decision-makers and lab scientists
+- **Harvard CCDD Workshop** (Boston, USA) — annual mathematical modelling workshop; recent shift toward equity and diversity in modelling communities
+- **ICTP-SAIFR** (Brazil) — international program; mathematical rigour with developing-country focus; newer than SISMID/ESPIDAM
+- **SPARK** (Australia) — recently launched; details limited in this survey
+
+### Online courses (6 major)
+Self-paced or short-duration, accessible globally:
+
+- **Coursera: ID Transmission Models for Decision-Makers** — explicitly targets non-technical policy stakeholders; rare resource bridging modelling and policy
+- **Coursera: ID Modeling in Practice** — balances methods and application; includes critical appraisal of published models
+- **Coursera: HKU Epidemics** — introduces basic concepts; accessible entry point
+- **FUN-MOOC: Modeling of Infectious Diseases** — French-language, open access; aims at accessibility
+- **The GRAPH Courses: Introduction to ID Modelling** — highly pedagogical, emphasis on software (R); designed for health professionals without maths background
+
+### Handbooks & reference materials (5)
+Practical resources for implementation:
+
+- **EpiR Handbook** — collaborative living document; practical R for epidemiologists; covers fitting, forecasting, nowcasting
+- **Handel IDEMA Book** — open-access textbook; hybrid approach (maths + R + epidemiology); notably includes model uncertainty chapters
+- **EpiModel Training** — focused on network models in R; growing resource
+- **EpiRecipe** — Spanish-language, practical snippets for common problems
+- **Epiverse-TRACE** — open-source toolkit for outbreak analytics and modelling; tutorials and training focused on outbreak response workflows; recent development with emphasis on real-time applications
+
+### Community resources (3+)
+Teaching materials, software tutorials, course repositories:
+
+- **GitHub repositories** (Höhle, Firth, NFIDD) — course materials, code, tutorials; transparency and reproducibility focus
+- **YouTube playlists** — lectures and walkthroughs
+- **Interactive visualizations** — SPARK, others
+
+---
+
+## Gaps and opportunities
+
+| Gap | Current coverage | Where it could be addressed |
+|---|---|---|
+| **Ethics & transparency** | 0 resources | New: dedicated course or textbook chapter on responsible modelling practices |
+| **Uncertainty communication** | 2 resources (shallow) | Integrate into all applied courses; practical exercises on how to present uncertainty to different audiences |
+| **Policy & decision-making** | 6 resources (mostly shallow) | Expand Coursera decision-makers model; create policy-focused modules in SISMID/ESPIDAM |
+| **Equity & access** | 1 resource | Make a core theme in all courses; address who gets trained and how |
+| **Model comparison & selection** | 2 resources | Formalise frameworks; include in intermediate courses |
+| **Real-time outbreak response** | 2 resources | Practicum-based learning using real case studies |
+| **Within-host & coinfection** | 1-2 resources | Growing importance; currently isolated from population models |
+| **Genomic epidemiology** | 2 resources | Emerging field; needs integration with traditional modelling |
+| **Ensemble & probabilistic forecasting** | 2 resources | Recent methodology; will become standard; needs teaching |
+
+---
+
+## Orientation questions for training design
+
+If you're developing new training in ID modelling, consider where it sits:
+
+1. **Audience**: Research scientists? Policy advisors? Lab technicians? Health planners? Modelling practitioners in low-resource settings?
+2. **Mathematical depth**: How much mathematical rigour is needed vs. intuition and hands-on practice?
+3. **Disciplinary grounding**: Is the focus epidemiological, mathematical, statistical, computational, or public health?
+4. **Applied orientation**: Is the goal to understand principles, implement methods, or inform decisions?
+5. **Which gaps does it fill?** The landscape above shows what's well-covered (basic compartmental models) and what's thin (ethics, communication, equity).
+
+---
+
+## Sources and further reading
+
+All resources referenced above are listed with URLs in the table on the [Resources](resources.qmd) page.
