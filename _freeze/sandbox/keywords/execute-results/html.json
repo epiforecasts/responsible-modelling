@@ -1,0 +1,15 @@
+{
+  "hash": "e3e11da0d2361a09b28efcb2d78c7a1a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nformat: html\nexecute:\n  echo: false\n  warning: false\n  message: false\nfreeze: true\n---\n\n\n::: {.cell}\n\n:::\n\n\n\n::: {.cell}\n\n:::\n\n\n\n::: {.cell}\n\n:::\n\n\n\n\n::: {.cell}\n\n:::\n\n\n44 participants, contributing up to 3 keywords to describe responsible/irresponsible modelling^[_Using up to 3 keywords, what does \"responsible\"/\"irresponsible\" modelling look like for you?_]. Word size represents frequency; coloured blue for responsible, orange for irresponsible.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

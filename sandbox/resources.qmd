@@ -1,0 +1,19 @@
+---
+title: "Resources"
+---
+
+## Workshop materials
+
+All workshop materials will be made available on this website after the event.
+
+## More or less relevant resources
+
+FAIR principles & practice: https://www.go-fair.org/fair-principles/
+
+UKRI Good research resource hub: https://www.ukri.org/manage-your-award/good-research-resource-hub/ 
+
+Preregistration: https://osf.io/
+
+Embassy of Good Science: https://embassy.science/wiki/Special:BrowseData/Theme
+
+

@@ -11,8 +11,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: register.qmd
-        text: Participate
 
 format:
   html:
