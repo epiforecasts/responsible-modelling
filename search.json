@@ -1,114 +1,114 @@
 [
   {
-    "objectID": "training-landscape-grid.html",
-    "href": "training-landscape-grid.html",
-    "title": "Global landscape of ID modelling training",
+    "objectID": "sandbox/training-landscape-grid.html",
+    "href": "sandbox/training-landscape-grid.html",
+    "title": "Evaluation & responsibility in ID modelling training",
     "section": "",
-    "text": "This page maps the global ecosystem of infectious disease modelling training resources, showing where they sit on the spectrum from academic/theoretical to applied/practical, and which topics they emphasise."
+    "text": "How do existing training materials address evaluation and responsibility in infectious disease modelling? This table surveys major textbooks (5) and online courses (4) used to teach ID modelling. Sources identified from an AI web search of published tables of contents and syllabi (March 2026).\nSee Training landscape for a comprehensive overview of 25+ global training resources, showing how they sit on the spectrum from academic to applied, and where critical gaps exist (ethics, uncertainty communication, equity, outbreak response)."
   },
   {
-    "objectID": "training-landscape-grid.html#key-findings",
-    "href": "training-landscape-grid.html#key-findings",
-    "title": "Global landscape of ID modelling training",
+    "objectID": "sandbox/training-landscape-grid.html#key-findings",
+    "href": "sandbox/training-landscape-grid.html#key-findings",
+    "title": "Evaluation & responsibility in ID modelling training",
     "section": "Key findings",
     "text": "Key findings\nThe training landscape shows clear patterns:\n\nUniversal foundation: Compartmental models (SIR/SEIR) and basic reproduction number (R₀) appear in virtually every resource. These are the entry point to all other topics.\nAcademic-applied divide: Textbooks (Keeling & Rohani, Martcheva, Anderson & May) focus on mathematical rigour and theoretical analysis. Applied courses (Imperial CPD, Coursera for decision-makers) prioritise practical skills and policy relevance. Few resources bridge both equally.\nMethodological depth vs accessibility trade-off: Mathematical textbooks offer depth in analysis (stability, bifurcation theory, Lyapunov functions) but assume strong maths background. Software-focused courses (Graph Courses, EpiR Handbook, EpiModel) are more accessible but less rigorous.\nEmerging topics are siloed: Machine learning, genomic epidemiology, and ensemble forecasting appear only in specialist modules (mainly SISMID, ESPIDAM) rather than foundational courses.\nCritical gap in coverage:\n\nEthics & model transparency: 0 resources teach this formally\nUncertainty quantification: Limited systematic treatment\nCommunication to non-technical audiences: Only 1 dedicated course\nEquity and access in modelling: Addressed in 1 resource\nReal-time outbreak response: Barely formalised in any course"
   },
   {
-    "objectID": "training-landscape-grid.html#landscape-grid",
-    "href": "training-landscape-grid.html#landscape-grid",
-    "title": "Global landscape of ID modelling training",
+    "objectID": "sandbox/training-landscape-grid.html#landscape-grid",
+    "href": "sandbox/training-landscape-grid.html#landscape-grid",
+    "title": "Evaluation & responsibility in ID modelling training",
     "section": "Landscape grid",
     "text": "Landscape grid\nThis grid maps 25+ training resources by their disciplinary orientation (rows) and primary teaching approach (columns). Shading indicates comprehensiveness of coverage.\n\n\n\n\n\n\n\n\n\n\nDisciplinary focus\nTheoretical/Mathematical\nHybrid (Math + Applied)\nApplied/Practical\nSoftware-first\n\n\n\n\nAcademic research\nKeeling & Rohani, Anderson & May, Martcheva, Vynnycky & White, SISMID (math modules), ESPIDAM, ICTP-SAIFR\nBjornstad (R-based textbook), SISMID (mixed modules)\n–\n–\n\n\nPublic health & epidemiology\n–\nDAIDD, Imperial CPD\nCoursera (decision-makers), Harvard CCDD workshop\nEpiModel training, EpiR Handbook, Graph Courses\n\n\nComputational / statistics\n–\nCoursera (modeling in practice), Martcheva\n–\nBjornstad, EpiModel, Handel IDEMA, Graph Courses\n\n\nData science / forecasting\n–\nSISMID (forecasting modules), ESPIDAM (nowcasting)\n–\nEpiR Handbook, Handel IDEMA"
   },
   {
-    "objectID": "training-landscape-grid.html#resource-summary-by-type",
-    "href": "training-landscape-grid.html#resource-summary-by-type",
-    "title": "Global landscape of ID modelling training",
+    "objectID": "sandbox/training-landscape-grid.html#resource-summary-by-type",
+    "href": "sandbox/training-landscape-grid.html#resource-summary-by-type",
+    "title": "Evaluation & responsibility in ID modelling training",
     "section": "Resource summary by type",
     "text": "Resource summary by type\n\nTextbooks (5)\nCanonical references, deep mathematical treatment, used globally:\n\nKeeling & Rohani (2008): Modeling Infectious Diseases in Humans and Animals — mathematical focus, chapters on dynamics, control, spatial models; no chapters on model evaluation or communication\nAnderson & May (1991): Infectious Diseases of Humans: Dynamics and Control — comprehensive reference across microparasites and macroparasites; foundational but assumes strong biology background\nMartcheva (2015): An Introduction to Mathematical Epidemiology — mathematically rigorous (ODE, PDE, age-structured models); includes fitting chapter; no coverage of policy or ethics\nVynnycky & White (2010): An Introduction to Infectious Disease Modelling — accessible to epidemiologists, practical orientation; limited coverage of stochastic and spatial methods\nBjornstad (2018/2022): Epidemics: Models and Data using R — unique in integrating R throughout; notable for time-series fitting chapters; bridges theory and practice\n\n\n\nIntensive courses (7 major)\n2–4 week residential programs, mix of lectures and hands-on sessions:\n\nSISMID (Emory, USA) — gold standard for breadth; mathematical modules + emerging topics (ML, forecasting, simulation-based inference); attracts global audience\nDAIDD (South Africa, rotating sites) — applied orientation, designed for researchers in low-resource settings; explicit focus on real-world constraints\nESPIDAM (Sweden, annual) — European summer program; mathematical + emerging topics (AI, phylodynamics); strong in inference and nowcasting\nImperial CPD (London, UK) — short courses for practitioners; applied epidemiology focus; explicitly designed for decision-makers and lab scientists\nHarvard CCDD Workshop (Boston, USA) — annual mathematical modelling workshop; recent shift toward equity and diversity in modelling communities\nICTP-SAIFR (Brazil) — international program; mathematical rigour with developing-country focus; newer than SISMID/ESPIDAM\nSPARK (Australia) — recently launched; details limited in this survey\n\n\n\nOnline courses (6 major)\nSelf-paced or short-duration, accessible globally:\n\nCoursera: ID Transmission Models for Decision-Makers — explicitly targets non-technical policy stakeholders; rare resource bridging modelling and policy\nCoursera: ID Modeling in Practice — balances methods and application; includes critical appraisal of published models\nCoursera: HKU Epidemics — introduces basic concepts; accessible entry point\nFUN-MOOC: Modeling of Infectious Diseases — French-language, open access; aims at accessibility\nThe GRAPH Courses: Introduction to ID Modelling — highly pedagogical, emphasis on software (R); designed for health professionals without maths background\n\n\n\nHandbooks & reference materials (5)\nPractical resources for implementation:\n\nEpiR Handbook — collaborative living document; practical R for epidemiologists; covers fitting, forecasting, nowcasting\nHandel IDEMA Book — open-access textbook; hybrid approach (maths + R + epidemiology); notably includes model uncertainty chapters\nEpiModel Training — focused on network models in R; growing resource\nEpiRecipe — Spanish-language, practical snippets for common problems\nEpiverse-TRACE — open-source toolkit for outbreak analytics and modelling; tutorials and training focused on outbreak response workflows; recent development with emphasis on real-time applications\n\n\n\nCommunity resources (3+)\nTeaching materials, software tutorials, course repositories:\n\nGitHub repositories (Höhle, Firth, NFIDD) — course materials, code, tutorials; transparency and reproducibility focus\nYouTube playlists — lectures and walkthroughs\nInteractive visualizations — SPARK, others"
   },
   {
-    "objectID": "training-landscape-grid.html#gaps-and-opportunities",
-    "href": "training-landscape-grid.html#gaps-and-opportunities",
-    "title": "Global landscape of ID modelling training",
+    "objectID": "sandbox/training-landscape-grid.html#gaps-and-opportunities",
+    "href": "sandbox/training-landscape-grid.html#gaps-and-opportunities",
+    "title": "Evaluation & responsibility in ID modelling training",
     "section": "Gaps and opportunities",
     "text": "Gaps and opportunities\n\n\n\n\n\n\n\n\nGap\nCurrent coverage\nWhere it could be addressed\n\n\n\n\nEthics & transparency\n0 resources\nNew: dedicated course or textbook chapter on responsible modelling practices\n\n\nUncertainty communication\n2 resources (shallow)\nIntegrate into all applied courses; practical exercises on how to present uncertainty to different audiences\n\n\nPolicy & decision-making\n6 resources (mostly shallow)\nExpand Coursera decision-makers model; create policy-focused modules in SISMID/ESPIDAM\n\n\nEquity & access\n1 resource\nMake a core theme in all courses; address who gets trained and how\n\n\nModel comparison & selection\n2 resources\nFormalise frameworks; include in intermediate courses\n\n\nReal-time outbreak response\n2 resources\nPracticum-based learning using real case studies\n\n\nWithin-host & coinfection\n1-2 resources\nGrowing importance; currently isolated from population models\n\n\nGenomic epidemiology\n2 resources\nEmerging field; needs integration with traditional modelling\n\n\nEnsemble & probabilistic forecasting\n2 resources\nRecent methodology; will become standard; needs teaching"
   },
   {
-    "objectID": "training-landscape-grid.html#orientation-questions-for-training-design",
-    "href": "training-landscape-grid.html#orientation-questions-for-training-design",
-    "title": "Global landscape of ID modelling training",
+    "objectID": "sandbox/training-landscape-grid.html#orientation-questions-for-training-design",
+    "href": "sandbox/training-landscape-grid.html#orientation-questions-for-training-design",
+    "title": "Evaluation & responsibility in ID modelling training",
     "section": "Orientation questions for training design",
     "text": "Orientation questions for training design\nIf you’re developing new training in ID modelling, consider where it sits:\n\nAudience: Research scientists? Policy advisors? Lab technicians? Health planners? Modelling practitioners in low-resource settings?\nMathematical depth: How much mathematical rigour is needed vs. intuition and hands-on practice?\nDisciplinary grounding: Is the focus epidemiological, mathematical, statistical, computational, or public health?\nApplied orientation: Is the goal to understand principles, implement methods, or inform decisions?\nWhich gaps does it fill? The landscape above shows what’s well-covered (basic compartmental models) and what’s thin (ethics, communication, equity)."
   },
   {
-    "objectID": "training-landscape-grid.html#sources-and-further-reading",
-    "href": "training-landscape-grid.html#sources-and-further-reading",
-    "title": "Global landscape of ID modelling training",
-    "section": "Sources and further reading",
-    "text": "Sources and further reading\nAll resources referenced above are listed with URLs in the table on the Resources page."
+    "objectID": "sandbox/keywords.html",
+    "href": "sandbox/keywords.html",
+    "title": "Evaluation & responsibility in infectious disease modelling",
+    "section": "",
+    "text": "44 participants, contributing up to 3 keywords to describe responsible/irresponsible modelling1. Word size represents frequency; coloured blue for responsible, orange for irresponsible."
   },
   {
-    "objectID": "register.html",
-    "href": "register.html",
+    "objectID": "sandbox/keywords.html#footnotes",
+    "href": "sandbox/keywords.html#footnotes",
+    "title": "Evaluation & responsibility in infectious disease modelling",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nUsing up to 3 keywords, what does “responsible”/“irresponsible” modelling look like for you?↩︎"
+  },
+  {
+    "objectID": "archive/register.html",
+    "href": "archive/register.html",
     "title": "Participate",
     "section": "",
     "text": "We encourage participants to join from any background and experience.\nRegistration for the workshop is open until 13 March.\nWe have a limit on the number of participant places so that we can best support group work. We are likely to be oversubscribed and will operate a waitlist after this point.\nWe will be in touch by 17 March to confirm places. Please let us know as soon as possible if you can no longer attend.\n\n\n\n\n\n\nNoteParticipant support\n\n\n\n\n\nThere is no cost to attend.\nWe will provide lunch and refreshments. We have some funds available to support UK travel, and can make accessibility adjustments wherever possible.\nPlease email Kath at katharine.sherratt@lshtm.ac.uk for more information and support with travel or accessibility.\nWe are unable to provide recordings of the workshop. All workshop materials will be available on this website.\n\n\n\n\n\n\n\nDownload calendar event"
+  },
+  {
+    "objectID": "2026-03-24.html",
+    "href": "2026-03-24.html",
+    "title": "24 March 2026",
+    "section": "",
+    "text": "FeedbackAgendaSlides\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoteAims\n\n\n\n\n\nWe invited participants to join a one day workshop on evaluation and responsibility in infectious disease modelling. We aimed to:\n\ncompare perspectives on evaluation in epidemiological and public health contexts\ncollaboratively map out what this means for professional norms, values, and responsibilities\nexperiment with what this looks like in practice by co-designing training material for modellers\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nContent\nLead\n\n\n\n\n09:45\nArrival\n\n\n\n10:00\nWelcome activity\nParticipants\n\n\n10:15\nIntroduction & aims\nKath Sherratt, Sebastian Funk, Erica Thompson\n\n\n\nEvaluation & scientific responsibility\n\n\n\n10:30\nModelling & scientific responsibility\nSebastian Funk\n\n\n10:40\nEvaluation across epidemiological contexts\nPanel: Matt Keeling (Uni. Warwick), Kaitlyn Johnson (LSHTM), Jonathon Mellor (UKHSA)\n\n\n11:10\nImplications for scientific responsibility\nParticipants: Nested group discussion\n\n\n11:30\nCoffee break\n\n\n\n11:45\nTraining scientifically responsible modellers\nParticipants: Small group co-design\n\n\n12:30\nLunch\n\n\n\n\nEvaluation & social responsibility\n\n\n\n13:30\nModelling & social responsibility\nErica Thompson\n\n\n13:40\nEvaluation across public health contexts\nPanel: Graham Medley (LSHTM), Juan Vesga (UKHSA), Katy Gaythorpe (Imperial/Vaccine Impact Modelling Consortium)\n\n\n14:10\nImplications for social responsibility\nParticipants: Nested group discussion\n\n\n14:30\nFresh air break\n\n\n\n15:00\nReview so far\nKath Sherratt\n\n\n15:05\nTraining socially responsible modellers\nParticipants: Small group co-design\n\n\n15:50\nGallery of co-designed training materials\n\n\n\n\nImplementation\n\n\n\n16:00\nCrowd sourcing: big priorities and smallest next steps\nParticipants: Rapid rating exercise\n\n\n16:20\nSummary and actions\nKath Sherratt, Sebastian Funk, Erica Thompson\n\n\n16:30\nClose\n\n\n\n\nWorkshop design motivated by principles of structured groupwork. Organised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), and supported by LSHTM CMMID.\n\n\n\n\nSource"
+  },
+  {
+    "objectID": "archive/24-03-24-index.html",
+    "href": "archive/24-03-24-index.html",
+    "title": "How do we evaluate modelling work, and what does that imply about modelling responsibly?",
+    "section": "",
+    "text": "NoteKey details\n\n\n\n\n24 March 2026, 10.00–16.30\nLSHTM, Keppel St, London WC1E 7HT\n30 participants across academia and public health\n\n\nParticipate\nOrganised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), and supported by LSHTM CMMID"
+  },
+  {
+    "objectID": "archive/24-03-24-index.html#footnotes",
+    "href": "archive/24-03-24-index.html#footnotes",
+    "title": "How do we evaluate modelling work, and what does that imply about modelling responsibly?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nWorkshop design motivated by principles of structured groupwork.↩︎"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "How do we evaluate modelling work, and what does that imply about modelling responsibly?",
     "section": "",
-    "text": "NoteKey details\n\n\n\n\n24 March 2026, 10.00–16.30\nLSHTM, Keppel St, London WC1E 7HT\n30 participants across academia and public health\n\n\nParticipate\nOrganised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), and supported by LSHTM CMMID"
+    "text": "TipGet involved\n\n\n\nLet us know you’re interested and we’ll keep in touch with workshop outcomes and further resources. Contact: Kath Sherratt\n\n\nWe invited participants to join a one day workshop on evaluation and responsibility in infectious disease modelling. We aimed to:\n\ncompare perspectives on evaluation in epidemiological and public health contexts\ncollaboratively map out what this means for professional norms, values, and responsibilities\nexperiment with what this looks like in practice by co-designing training material for modellers\n\nWe intended to directly support participants by building up practical ideas, resources, and relationships."
   },
   {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "How do we evaluate modelling work, and what does that imply about modelling responsibly?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nWorkshop design motivated by principles of structured groupwork.↩︎"
-  },
-  {
-    "objectID": "keywords.html",
-    "href": "keywords.html",
-    "title": "Evaluation & responsibility in infectious disease modelling",
-    "section": "",
-    "text": "37 participants, contributing up to 3 keywords to describe responsible/irresponsible modelling1. Word size represents frequency; coloured blue for responsible, orange for irresponsible."
-  },
-  {
-    "objectID": "keywords.html#footnotes",
-    "href": "keywords.html#footnotes",
-    "title": "Evaluation & responsibility in infectious disease modelling",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nUsing up to 3 keywords, what does “responsible”/“irresponsible” modelling look like for you?↩︎"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
+    "objectID": "sandbox/resources.html",
+    "href": "sandbox/resources.html",
     "title": "Resources",
     "section": "",
     "text": "All workshop materials will be made available on this website after the event."
   },
   {
-    "objectID": "resources.html#workshop-materials",
-    "href": "resources.html#workshop-materials",
+    "objectID": "sandbox/resources.html#workshop-materials",
+    "href": "sandbox/resources.html#workshop-materials",
     "title": "Resources",
     "section": "",
     "text": "All workshop materials will be made available on this website after the event."
   },
   {
-    "objectID": "resources.html#more-or-less-relevant-resources",
-    "href": "resources.html#more-or-less-relevant-resources",
+    "objectID": "sandbox/resources.html#more-or-less-relevant-resources",
+    "href": "sandbox/resources.html#more-or-less-relevant-resources",
     "title": "Resources",
     "section": "More or less relevant resources",
     "text": "More or less relevant resources\nFAIR principles & practice: https://www.go-fair.org/fair-principles/\nUKRI Good research resource hub: https://www.ukri.org/manage-your-award/good-research-resource-hub/\nPreregistration: https://osf.io/\nEmbassy of Good Science: https://embassy.science/wiki/Special:BrowseData/Theme"
-  },
-  {
-    "objectID": "resources.html#evaluation-responsibility-in-id-modelling-training",
-    "href": "resources.html#evaluation-responsibility-in-id-modelling-training",
-    "title": "Resources",
-    "section": "Evaluation & responsibility in ID modelling training",
-    "text": "Evaluation & responsibility in ID modelling training\nHow do existing training materials address evaluation and responsibility in infectious disease modelling? This table surveys major textbooks (5) and online courses (4) used to teach ID modelling. Sources identified from an AI web search of published tables of contents and syllabi (March 2026).\nSee Training landscape for a comprehensive overview of 25+ global training resources, showing how they sit on the spectrum from academic to applied, and where critical gaps exist (ethics, uncertainty communication, equity, outbreak response).\n\nMethods\nWe searched for and reviewed the published chapter headings and course syllabi of five major ID modelling textbooks and four widely-used online courses. Classification was based on explicit course/chapter structure rather than text content: a topic was marked as present (●) if it appeared as a named chapter, unit, or module heading; partial (◑) if mentioned within broader topics (e.g., uncertainty mentioned within a methods chapter but not a standalone topic); absent (○) if not present in the published outline.\nTextbooks reviewed: - Keeling & Rohani (2008) — Princeton - Vynnycky & White (2010) — OUP - Anderson & May (1991) — OUP - Bjornstad (2018/2022) — Springer - Martcheva (2015) — Springer\nOnline courses reviewed: - Imperial College London Coursera specialisation in ID modelling - Johns Hopkins Infectious Disease Modeling in Practice (2024) - University of Oxford Applied Methods in R - Handel IDEMA course materials (UGA, open access)\nThis method captures what training materials emphasise as learning objectives, not the full depth of what might be covered. It reflects curricular structure and priorities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTraining resource\nModel structure\nFitting & calibration\nUncertainty\nInterventions\nModel evaluation\nCommunicating results\nEthics & values\nPolicy use\n\n\n\n\nTextbooks\n\n\n\n\n\n\n\n\n\n\nKeeling & Rohani (2008)\n●\n○\n◑\n●\n○\n○\n○\n○\n\n\nVynnycky & White (2010)\n●\n○\n◑\n◑\n○\n○\n○\n○\n\n\nAnderson & May (1991)\n●\n○\n○\n●\n○\n○\n○\n○\n\n\nBjornstad (2018/2022)\n●\n●\n◑\n◑\n◑\n○\n○\n○\n\n\nMartcheva (2015)\n●\n●\n○\n◑\n○\n○\n○\n○\n\n\nOnline courses\n\n\n\n\n\n\n\n\n\n\nImperial College London (Coursera)\n●\n●\n◑\n●\n◑\n◑\n○\n◑\n\n\nJohns Hopkins – ID Modeling in Practice\n◑\n◑\n●\n◑\n◑\n◑\n○\n●\n\n\nOxford – Applied Methods in R\n●\n●\n●\n◑\n◑\n●\n○\n◑\n\n\nHandel IDEMA (UGA)\n●\n●\n◑\n◑\n●\n◑\n○\n○"
   }
 ]

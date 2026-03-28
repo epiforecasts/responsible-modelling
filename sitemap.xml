@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://epiforecasts.github.io/responsible-modelling/training-landscape-grid.html</loc>
-    <lastmod>2026-03-27T17:52:17.912Z</lastmod>
+    <loc>https://epiforecasts.github.io/responsible-modelling/sandbox/training-landscape-grid.html</loc>
+    <lastmod>2026-03-28T13:38:23.785Z</lastmod>
   </url>
   <url>
-    <loc>https://epiforecasts.github.io/responsible-modelling/register.html</loc>
-    <lastmod>2026-03-27T17:52:17.911Z</lastmod>
+    <loc>https://epiforecasts.github.io/responsible-modelling/sandbox/keywords.html</loc>
+    <lastmod>2026-03-28T13:38:23.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://epiforecasts.github.io/responsible-modelling/archive/register.html</loc>
+    <lastmod>2026-03-28T13:38:23.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://epiforecasts.github.io/responsible-modelling/2026-03-24.html</loc>
+    <lastmod>2026-03-28T13:38:23.783Z</lastmod>
+  </url>
+  <url>
+    <loc>https://epiforecasts.github.io/responsible-modelling/archive/24-03-24-index.html</loc>
+    <lastmod>2026-03-28T13:38:23.784Z</lastmod>
   </url>
   <url>
     <loc>https://epiforecasts.github.io/responsible-modelling/index.html</loc>
-    <lastmod>2026-03-27T17:52:17.911Z</lastmod>
+    <lastmod>2026-03-28T13:38:23.785Z</lastmod>
   </url>
   <url>
-    <loc>https://epiforecasts.github.io/responsible-modelling/keywords.html</loc>
-    <lastmod>2026-03-27T17:52:17.911Z</lastmod>
-  </url>
-  <url>
-    <loc>https://epiforecasts.github.io/responsible-modelling/resources.html</loc>
-    <lastmod>2026-03-27T17:52:17.911Z</lastmod>
+    <loc>https://epiforecasts.github.io/responsible-modelling/sandbox/resources.html</loc>
+    <lastmod>2026-03-28T13:38:23.785Z</lastmod>
   </url>
 </urlset>
