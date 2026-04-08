@@ -1,0 +1,142 @@
+id,type,keyword,keyword_single
+y6NBE,responsible,accountable,accountable
+vY4jg,responsible,accountable,accountable
+ZwQlQ,responsible,accurate,accurate
+qVWYr,responsible,accurate,accurate
+gx409,responsible,accurate,accurate
+JYwgo,irresponsible,agenda,agenda
+vY4jg,irresponsible,agenda-driven,agenda
+rE4Yk,responsible,analysis,analysis
+ZwQlQ,irresponsible,rely too much on assumptions,assumptions
+QN8o9,responsible,aware,aware
+xV41n,responsible,aware,aware
+EZEjg,responsible,benchmarked,benchmarked
+qVWYr,responsible,beneficent,beneficent
+DYnYA,irresponsible,biased,biased
+qVWYr,irresponsible,Biased,Biased
+8or1o,irresponsible,biased,biased
+ov57X,irresponsible,biased,biased
+EZEjg,responsible,cautious,cautious
+qV0Dp,responsible,caveated,caveated
+YQPJK,irresponsible,certain,certain
+qV0Dp,irresponsible,closed-source,closed
+8oro5,irresponsible,closed,closed
+5loOq,responsible,collaboration,collaborative
+qV0Dp,responsible,Collaborative,Collaborative
+8oro5,responsible,collaborative,collaborative
+kw46r,responsible,communication,communication
+ZwQlQ,responsible,comprehensive,comprehensive
+xV41n,responsible,correct,correct
+ZwQlQ,responsible,discerning data,data
+vY0wM,responsible,Data,Data
+rE4Yk,responsible,data,data
+rE4Yk,irresponsible,no data,data
+gx409,irresponsible,disingenuous,disingenuous
+y6NBE,irresponsible,erratic,erratic
+nYqkl,responsible,ethical,ethical
+DYnM6,responsible,Experimental Validation,experimental
+zBjX7,responsible,Explained,Explained
+qVWYr,responsible,Fair,Fair
+EZEjg,irresponsible,fear-mongering,fearmongering
+qVWYr,irresponsible,harmful,harmful
+DYnYA,responsible,honest,honest
+8oro5,responsible,honest,honest
+vY4jg,responsible,honest,honest
+JYwgo,irresponsible,horror stories,horror
+QN8o9,irresponsible,ill-informed,uninformed
+5loOq,irresponsible,imagination,imagination
+OEB8G,responsible,impact,impact
+qVWYr,irresponsible,inaccurate,inaccurate
+ov4mY,responsible,inclusive,inclusive
+8oro5,irresponsible,individual,individual
+QN8o9,responsible,informative,informative
+y6NBE,responsible,informed,informed
+EZEjg,responsible,interpretable,interpretable
+kw46r,responsible,limitation,limitation
+DYnYA,irresponsible,poor quality,quality
+JYwgo,irresponsible,chase media,media
+OEB8G,irresponsible,misinterpretation,misinterpretation
+nYqkl,irresponsible,misleading,misleading
+rE4Yk,responsible,Model,Model
+9pMQ3,irresponsible,Mysterious,Mysterious
+EZEjg,irresponsible,non-actionable,nonactionable
+5loOq,irresponsible,non-fitting,nonfitting
+DYnYA,responsible,objective,objective
+y6NBE,irresponsible,opaque,opaque
+nYqkl,irresponsible,opaque,opaque
+8or1o,responsible,Open,Open
+8oro5,responsible,open,open
+zBjX7,responsible,Open,Open
+vY4jg,irresponsible,opinionated,opinionated
+OEB8G,irresponsible,Overconfidence,Overconfident
+QN8o9,irresponsible,overconfident,overconfident
+8or1o,irresponsible,overconfident,overconfident
+DYnM6,irresponsible,Overfitting,Overfitting
+DYnM6,irresponsible,Oversimplification,oversimplified
+OEB8G,irresponsible,oversimplification,oversimplified
+ZwQlQ,irresponsible,too simplified models,oversimplified
+vY0wM,irresponsible,Oversimplified,Oversimplified
+qV0Dp,irresponsible,Parachute,Parachute
+9pMQ3,responsible,Parsimonious,Parsimonious
+9pMQ3,irresponsible,Pointless,Pointless
+ZwQlQ,irresponsible,fitted from preconceived conclusion,preconceived
+8oro5,irresponsible,prestige,prestige
+xV41n,responsible,published,published
+DYnM6,responsible,Biological Realism,realism
+zBjX7,irresponsible,Reckless,Reckless
+zBjX7,responsible,Replicable,Replicable
+ov4mY,responsible,reproducible,reproducible
+QNrnY,responsible,reproducible,reproducible
+JYwgo,responsible,reproducible,reproducible
+8or1o,irresponsible,Restricted,Restricted
+QNrnY,responsible,Robust,Robust
+DYnYA,responsible,robust,robust
+OEB8G,responsible,robustness,robust
+xV41n,irresponsible,rushed,rushed
+xV41n,irresponsible,secretive,secretive
+DYnYA,irresponsible,selective,selective
+QNrnY,responsible,sensitive analysis,sensitivity
+qV0Dp,irresponsible,siloed,siloed
+zBjX7,irresponsible,Sloppy,Sloppy
+5loOq,responsible,stakeholder,stakeholder
+nYqkl,responsible,sustainable,sustainable
+gx409,responsible,thorough,thorough
+xV41n,irresponsible,thoughtless,thoughtless
+5loOq,irresponsible,toy-example,toy
+OEB8G,responsible,Transparency,Transparent
+ov4mY,responsible,transparent,transparent
+DYnM6,responsible,Transparent Assumptions,transparent
+JYwgo,responsible,fully transparent,transparent
+YQPJK,responsible,transparent,transparent
+qV0Dp,responsible,transparent,transparent
+y6NBE,responsible,transparent,transparent
+8or1o,responsible,transparent,transparent
+vY0wM,responsible,Transparent,Transparent
+gx409,responsible,transparent,transparent
+ov57X,responsible,transparent,transparent
+kw46r,responsible,transparent,transparent
+vY4jg,responsible,transparent,transparent
+vY4jg,irresponsible,unaccountable,unaccountable
+zBjX7,irresponsible,unavailable,unavailable
+8or1o,responsible,unbiased,unbiased
+ov57X,responsible,unbiased,unbiased
+vY0wM,irresponsible,uncalibrated,uncalibrated
+YQPJK,responsible,uncertain,uncertain
+vY0wM,responsible,Uncertainty,Uncertain
+QNrnY,irresponsible,Unclear method,unclear
+EZEjg,irresponsible,uncomprehensive,uncomprehensive
+9pMQ3,responsible,Understood,Understood
+YQPJK,irresponsible,undocumented,undocumented
+QNrnY,irresponsible,incorrect evaluation method,unevaluated
+QN8o9,irresponsible,unexplained,unexplained
+y6NBE,irresponsible,unjustified,unjustified
+ov4mY,irresponsible,limitation-free,limitation
+QNrnY,irresponsible,unproductive,unproductive
+YQPJK,irresponsible,not tested,untested
+DYnM6,irresponsible,Unvalidated Predictions,unvalidated
+vY0wM,irresponsible,unvalidated,unvalidated
+nYqkl,responsible,useful,useful
+nYqkl,irresponsible,vain,vain
+YQPJK,responsible,validated,validated
+9pMQ3,responsible,Validated,Validated
+5loOq,responsible,validation,validated

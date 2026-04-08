@@ -1,0 +1,18 @@
+
+## Short post: 2 paragraphs
+
+- what
+    - background
+    - workshop design - interactive
+    - participants
+
+- so what
+    - keywords
+    - panels, training scenarios
+    - actions
+
+- now what
+    - options for community
+    - welcome to join, website 
+
+- picture: wordcloud
