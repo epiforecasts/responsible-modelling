@@ -16,18 +16,11 @@ knitr::opts_chunk$set(
 )
 ```
 
-How do we evaluate modelling work, and what does that imply about modelling responsibly?
-In a one-day workshop, we brought together around 30 participants to explore how evaluation links to professional norms, values, and responsibilities.
-We shared expertise across epidemiological and public health contexts, and put discussion into action by co-designing modeller training materials, and setting individual next steps to improve practice. 
-The workshop was organised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), with support from CMMID. 
-Visit the workshop page for more info and future updates.
+::: {.callout-tip title="Get involved" collapse="false" .column-margin}
 
----
-We aimed to:
+<iframe style="border:none;width:100%;" id="workshop-feedback-n5fvqw" src="https://opnform.com/forms/workshop-feedback-n5fvqw"></iframe><script type="text/javascript" onload="initEmbed('workshop-feedback-n5fvqw', { autoResize: true })" src="https://opnform.com/widgets/iframe.min.js"></script>
 
--   compare perspectives on evaluation in epidemiological and public health contexts
--   collaboratively map out what this means for professional norms, values, and responsibilities
--   experiment with what this looks like in practice by co-designing training material for modellers
+:::
 
 ```{r}
 keywords_raw <- read_csv(here::here("data", "2026-03-24-keywords-processed.csv"))
@@ -49,34 +42,26 @@ labs(caption = "Keywords describing 'irresponsible' or 'responsible' modelling f
 # ggsave(here::here("wordcloud_facet.png"), height = 3, width = 9)
 ```
 
-::: {.callout-tip title="Get involved" .column-margin}
+::: {.callout-tip collapse="false"}
 
-Let us know you're interested and we'll keep in touch with workshop outcomes and further resources. 
+## What?
 
-<iframe style="border:none;width:100%;" id="workshop-feedback-n5fvqw" src="https://opnform.com/forms/workshop-feedback-n5fvqw"></iframe><script type="text/javascript" onload="initEmbed('workshop-feedback-n5fvqw', { autoResize: true })" src="https://opnform.com/widgets/iframe.min.js"></script>
+We brought together around 30 participants to explore how evaluation links to professional norms, values, and responsibilities.
+We shared expertise across epidemiological and public health contexts, and put discussion into action by co-designing modeller training materials, and setting individual next steps to improve practice. 
+
+We aimed to:
+
+-   compare perspectives on evaluation in epidemiological and public health contexts
+-   collaboratively map out what this means for professional norms, values, and responsibilities
+-   experiment with what this looks like in practice by co-designing training material for modellers
 
 :::
 
+::: {.callout-tip collapse="true"}
+
+## What happened?
+
 ::: panel-tabset
-## Outcomes
-
-#### Quick wins
-
-We crowd-sourced ideas for next best action for an individual to improve evaluation and responsibility in their work. These are the highest-ranked actions to take now^[Table shows highest ranked actions among participants' next steps. Each participant wrote one small action they would personally take. All actions were anonymously swapped among participants and scored from one to five (best). We repeated the swap-and-score process until each action had at least three independent scores. Table shows actions with an average of 5/5.]:
-
-```{r}
-actions <- read_csv(here("data", "2026-03-24-actions.csv"))
-actions |>
-    arrange(desc(sum)) |>
-    filter(average_5 == 5) |>
-    select("Smallest next steps" = action) |>
-    kableExtra::kable()
-```
-
-#### The long game
-
-This is just one effort in a much wider community working to improve evaluation and understand resonsibility in infectious disease modelling. 
-Let us know you're interested below, and we'll keep in touch with workshop outcomes.
 
 ## Slides
 
@@ -114,5 +99,37 @@ Let us know you're interested below, and we'll keep in touch with workshop outco
 Workshop design motivated by principles of [structured groupwork](https://www.liberatingstructures.com/). 
 
 :::
+
+:::
+
+::: {.callout-tip collapse="false"}
+
+## What next?
+
+::: {layout="[[1,1], [1]]"}
+
+#### Quick wins
+
+We crowd-sourced ideas for next best action for an individual to improve evaluation and responsibility in their work. These are the highest-ranked actions to take now^[Table shows highest ranked actions among participants' next steps. Each participant wrote one small action they would personally take. All actions were anonymously swapped among participants and scored from one to five (best). We repeated the swap-and-score process until each action had at least three independent scores. Table shows actions with an average of 5/5.]:
+
+```{r}
+actions <- read_csv(here("data", "2026-03-24-actions.csv"))
+actions |>
+    arrange(desc(sum)) |>
+    filter(average_5 == 5) |>
+    select("Smallest next steps" = action) |>
+    kableExtra::kable()
+```
+
+#### Long term
+
+This is just one effort in a much wider community working to improve evaluation and understand resonsibility in infectious disease modelling. 
+Let us know you're interested and we'll keep in touch with workshop outcomes.
+
+:::
+
+:::
+
+---
 
 Organised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), and supported by LSHTM CMMID.
