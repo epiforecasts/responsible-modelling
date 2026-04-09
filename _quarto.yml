@@ -4,6 +4,9 @@ project:
     - "*.qmd"
     - "!admin/"
 
+execute:
+  freeze: auto
+
 website:
   open-graph: true
   title: "Evaluation & responsibility in infectious disease modelling"
