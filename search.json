@@ -42,18 +42,18 @@
     "text": "Orientation questions for training design\nIf you’re developing new training in ID modelling, consider where it sits:\n\nAudience: Research scientists? Policy advisors? Lab technicians? Health planners? Modelling practitioners in low-resource settings?\nMathematical depth: How much mathematical rigour is needed vs. intuition and hands-on practice?\nDisciplinary grounding: Is the focus epidemiological, mathematical, statistical, computational, or public health?\nApplied orientation: Is the goal to understand principles, implement methods, or inform decisions?\nWhich gaps does it fill? The landscape above shows what’s well-covered (basic compartmental models) and what’s thin (ethics, communication, equity)."
   },
   {
-    "objectID": "sandbox/keywords.html",
-    "href": "sandbox/keywords.html",
+    "objectID": "sandbox/blog.html",
+    "href": "sandbox/blog.html",
     "title": "Evaluation & responsibility in infectious disease modelling",
     "section": "",
-    "text": "44 participants, contributing up to 3 keywords to describe responsible/irresponsible modelling1. Word size represents frequency; coloured blue for responsible, orange for irresponsible."
+    "text": "what\n\nbackground\nworkshop design - interactive\nparticipants\n\nso what\n\nkeywords\npanels, training scenarios\nactions\n\nnow what\n\noptions for community\nwelcome to join, website\n\npicture: wordcloud"
   },
   {
-    "objectID": "sandbox/keywords.html#footnotes",
-    "href": "sandbox/keywords.html#footnotes",
+    "objectID": "sandbox/blog.html#short-post-2-paragraphs",
+    "href": "sandbox/blog.html#short-post-2-paragraphs",
     "title": "Evaluation & responsibility in infectious disease modelling",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nUsing up to 3 keywords, what does “responsible”/“irresponsible” modelling look like for you?↩︎"
+    "section": "",
+    "text": "what\n\nbackground\nworkshop design - interactive\nparticipants\n\nso what\n\nkeywords\npanels, training scenarios\nactions\n\nnow what\n\noptions for community\nwelcome to join, website\n\npicture: wordcloud"
   },
   {
     "objectID": "archive/register.html",
@@ -81,7 +81,14 @@
     "href": "index.html",
     "title": "How do we evaluate modelling work, and what does that imply about modelling responsibly?",
     "section": "",
-    "text": "TipGet involved\n\n\n\nLet us know you’re interested and we’ll keep in touch with workshop outcomes and further resources.\nContact: Kath Sherratt\n\n\nWe invited participants to join a one day workshop on evaluation and responsibility in infectious disease modelling. We aimed to:\n\ncompare perspectives on evaluation in epidemiological and public health contexts\ncollaboratively map out what this means for professional norms, values, and responsibilities\nexperiment with what this looks like in practice by co-designing training material for modellers\n\nWe intended to directly support participants by building up practical ideas, resources, and relationships.\n\nSlidesAgenda\n\n\n\n\nSource\n\n\n\n\n\n\n\n\n\n\nTime\nContent\nLead\n\n\n\n\n09:45\nArrival\n\n\n\n10:00\nWelcome activity\nParticipants\n\n\n10:15\nIntroduction & aims\nKath Sherratt, Sebastian Funk, Erica Thompson\n\n\n\nEvaluation & scientific responsibility\n\n\n\n10:30\nModelling & scientific responsibility\nSebastian Funk\n\n\n10:40\nEvaluation across epidemiological contexts\nPanel: Matt Keeling (Uni. Warwick), Kaitlyn Johnson (LSHTM), Jonathon Mellor (UKHSA)\n\n\n11:10\nImplications for scientific responsibility\nParticipants: Nested group discussion\n\n\n11:30\nCoffee break\n\n\n\n11:45\nTraining scientifically responsible modellers\nParticipants: Small group co-design\n\n\n12:30\nLunch\n\n\n\n\nEvaluation & social responsibility\n\n\n\n13:30\nModelling & social responsibility\nErica Thompson\n\n\n13:40\nEvaluation across public health contexts\nPanel: Graham Medley (LSHTM), Juan Vesga (UKHSA), Katy Gaythorpe (Imperial/Vaccine Impact Modelling Consortium)\n\n\n14:10\nImplications for social responsibility\nParticipants: Nested group discussion\n\n\n14:30\nFresh air break\n\n\n\n15:00\nReview so far\nKath Sherratt\n\n\n15:05\nTraining socially responsible modellers\nParticipants: Small group co-design\n\n\n15:50\nGallery of co-designed training materials\n\n\n\n\nImplementation\n\n\n\n16:00\nCrowd sourcing: big priorities and smallest next steps\nParticipants: Rapid rating exercise\n\n\n16:20\nSummary and actions\nKath Sherratt, Sebastian Funk, Erica Thompson\n\n\n16:30\nClose\n\n\n\n\nWorkshop design motivated by principles of structured groupwork.\n\n\n\nOrganised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), and supported by LSHTM CMMID."
+    "text": "How do we evaluate modelling work, and what does that imply about modelling responsibly? In a one-day workshop, we brought together around 30 participants to explore how evaluation links to professional norms, values, and responsibilities. We shared expertise across epidemiological and public health contexts, and put discussion into action by co-designing modeller training materials, and setting individual next steps to improve practice. The workshop was organised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), with support from CMMID. Visit the workshop page for more info and future updates.\nWe aimed to:\nOrganised by Kath Sherratt (LSHTM), Seb Funk (LSHTM), and Erica Thompson (UCL), and supported by LSHTM CMMID."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "How do we evaluate modelling work, and what does that imply about modelling responsibly?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nTable shows highest ranked actions among participants’ next steps. Each participant wrote one small action they would personally take. All actions were anonymously swapped among participants and scored from one to five (best). We repeated the swap-and-score process until each action had at least three independent scores. Table shows actions with an average of 5/5.↩︎"
   },
   {
     "objectID": "sandbox/resources.html",
